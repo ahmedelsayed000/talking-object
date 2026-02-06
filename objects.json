@@ -1,0 +1,14 @@
+{
+  "objects": [
+    {
+      "id": "A",
+      "name": "Statue of Tutankhamun",
+      "description": "This statue belongs to King Tutankhamun."
+    },
+    {
+      "id": "B",
+      "name": "Narmer Palette",
+      "description": "The Narmer Palette shows the unification of Egypt."
+    }
+  ]
+}
