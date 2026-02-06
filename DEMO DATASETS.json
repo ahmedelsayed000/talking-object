@@ -1,0 +1,1549 @@
+{
+  "datasets": [
+    {
+      "object_id": "gem_001",
+      "museum": "Grand Egyptian Museum",
+      "name": "Golden Funerary Mask of Tutankhamun",
+      "era": "New Kingdom",
+      "dynasty": "18th Dynasty",
+      "reign_period": "c. 1332–1323 BCE",
+      "classification": {
+        "type": "Funerary mask (death mask)",
+        "culture": "Ancient Egypt",
+        "associated_deity_iconography": [
+          "Osiris",
+          "Re (solar imagery)"
+        ]
+      },
+      "identifiers": {
+        "JE_number": "JE 60672",
+        "carter_number": "Carter no. 256a"
+      },
+      "materials": [
+        "Gold",
+        "Lapis lazuli",
+        "Turquoise",
+        "Carnelian",
+        "Obsidian",
+        "Colored glass (glass paste)"
+      ],
+      "techniques": [
+        "Hammered gold sheets",
+        "Chasing",
+        "Inlay work",
+        "Soldering"
+      ],
+      "dimensions_cm": {
+        "height": 54,
+        "width": 39.3,
+        "depth": 49
+      },
+      "weight_kg": 11,
+      "location": {
+        "site": "Grand Egyptian Museum",
+        "room": "Tutankhamun Gallery",
+        "position": "Display Case 1"
+      },
+      "physical_links": {
+        "qr_code": "QR_artifact_001",
+        "nfc_tag": "NFC_artifact_001"
+      },
+      "images": [
+        {
+          "image_id": "gem_001_img_01",
+          "path": null,
+          "caption": "Front view of the Golden Funerary Mask of Tutankhamun",
+          "view_type": "front",
+          "source": "TBD"
+        },
+        {
+          "image_id": "gem_001_img_02",
+          "path": null,
+          "caption": "Rear view (back) showing the inscribed protective text",
+          "view_type": "back",
+          "source": "TBD"
+        },
+        {
+          "image_id": "gem_001_img_03",
+          "path": null,
+          "caption": "Detail view: cobra (Wadjet) and vulture (Nekhbet) on the forehead",
+          "view_type": "detail",
+          "source": "TBD"
+        }
+      ],
+      "keywords": [
+        "Tutankhamun",
+        "gold mask",
+        "Book of the Dead",
+        "Chapter 151",
+        "royal funerary ritual",
+        "Upper and Lower Egypt",
+        "Wadjet",
+        "Nekhbet",
+        "Osiris"
+      ],
+      "description_short": "A solid-gold funerary mask placed over the head and shoulders of Tutankhamun’s mummy. It depicts the king in an Osirian form and carries protective hieroglyphic text; its materials, iconography, and craftsmanship make it a flagship example of New Kingdom royal funerary art.",
+      "description_long": "The Golden Funerary Mask of Tutankhamun is a solid-gold funerary mask created for the burial of the 18th Dynasty pharaoh Tutankhamun (reigned c. 1332–1323 BCE). It is among the most widely recognized objects from ancient Egypt and a benchmark artifact for studying New Kingdom royal funerary ideology, workshop craftsmanship, and religious symbolism. The mask was found positioned over the head and shoulders of the king’s mummified remains, functioning as a ritual and protective object rather than as a purely decorative work. Official museum description emphasizes that the mask was placed directly over the head and shoulders of the mummy and that it is made of solid gold. :contentReference[oaicite:0]{index=0}\n\nPHYSICAL DESCRIPTION AND MEASUREMENTS\nThe mask is approximately 54 cm high, about 39.3 cm wide, and around 49 cm deep, and is documented as weighing about 11 kg. :contentReference[oaicite:1]{index=1} These measurements are not trivial catalog details: they anchor exhibition design, conservation handling, and also enable accurate educational content (for example, explaining why the object has such strong visual presence and why it requires specialized supports).\n\nMATERIALS AND VISUAL EFFECT\nThe mask is made primarily of gold and is embellished with inlays of lapis lazuli, turquoise, carnelian, obsidian, and colored glass (often described as glass paste). :contentReference[oaicite:2]{index=2} In ancient Egyptian religious thought, gold carried explicit divine associations (frequently summarized as a substance suitable for gods and the eternal realm), which is why gold dominates elite funerary equipment. The inlay palette is also functional in a symbolic sense: it enables strong color contrasts that define facial features and divine-regal elements and makes iconographic motifs readable under varied lighting conditions.\n\nICONOGRAPHY: THE KING AS A DIVINE, OSIRIAN FIGURE\nThe official GEM collection description notes that the king is made to look like Osiris, ruler of the underworld, and references solar-god associations (Re), including the idea of gold and lapis-lazuli hair symbolism that appears in museum interpretation of this mask. :contentReference[oaicite:3]{index=3} This is central to how you should structure your retrieval content: the mask is not only a portrait; it is an engineered theological statement. Depicting the king in an Osirian form supports the afterlife narrative in which the deceased ruler becomes a renewed, transfigured being.\n\nTHE FOREHEAD EMBLEMS: COBRA AND VULTURE (TWO LANDS UNIFIED)\nThe mask features a cobra and a vulture on the forehead (commonly interpreted as Wadjet and Nekhbet), representing protective divine forces tied to Lower and Upper Egypt, reinforcing kingship over the united land. This symbolism is widely described in reference summaries of the mask’s design and composition. :contentReference[oaicite:4]{index=4} For your system, this directly powers robust Q&A such as: “Why are there two animals on the forehead?” “What do the cobra and vulture mean?” “How does the mask show political unity?”\n\nFUNERARY PURPOSE: IDENTITY, PROTECTION, AND TRANSFORMATION\nAs a funerary mask, its purpose is deeply tied to identity preservation and magical protection. The mask is documented as having a protective spell inscribed in hieroglyphs on the shoulders/back area. :contentReference[oaicite:5]{index=5} In practical interpretive terms, this means the object is part of a system: body preservation (mummification), protective equipment (mask, coffins, amulets), and textual magic (spells) working together to enable successful transition to the afterlife.\n\nINSCRIPTIONS: BOOK OF THE DEAD CONNECTION (CHAPTER 151)\nMultiple sources state that a spell from the Book of the Dead is inscribed on the mask, and scholarly discussions often connect the inscription to Chapter 151 (a well-known protective set of texts used in funerary contexts). :contentReference[oaicite:6]{index=6} From a dataset perspective, this is highly valuable because it supports specialized user questions like: “What text is on the back of the mask?” “What is Chapter 151?” “Why are spells written on burial objects?” Your chunking should split this into: (1) what the inscription is, (2) what it is for, (3) how it relates to wider funerary practice.\n\nTECHNIQUES AND WORKSHOP CRAFTSMANSHIP\nCatalog-style descriptions commonly describe the mask as produced through high-skill metalwork (e.g., hammered sheets, chasing, inlay, soldering). The Global Egyptian Museum entry explicitly lists technique terms such as chasing, hammering, inlaid, and soldered. :contentReference[oaicite:7]{index=7} These technique fields are critical for retrieval because they let the system answer manufacturing questions without guessing: “How was it made?” “What is chasing?” “How did they attach inlays?”\n\nARCHAEOLOGICAL CONTEXT AND DISCOVERY\nThe mask was discovered in the tomb of Tutankhamun in the Valley of the Kings (KV62 area context is widely referenced), and popular reference summaries tie the mask’s recovery to the excavation led by Howard Carter after the tomb’s discovery in 1922, with the mask itself being found in 1925 during later stages of recording and removal. :contentReference[oaicite:8]{index=8} This supports time-based questions: “When was it found?” “Who found it?” “Why is 1922 mentioned if the mask is 1925?” Your dataset can handle this cleanly by treating: (a) tomb discovery year, (b) object removal/documentation year as distinct fields if you want.\n\nMUSEUM CATALOGING AND IDENTIFIERS\nKey identifiers for the mask appear in catalog summaries (e.g., JE 60672; Carter no. 256a). :contentReference[oaicite:9]{index=9} These identifiers matter because they allow non-ambiguous linking across databases, publications, conservation records, and exhibit labels. In your Talking Objects system, this reduces entity confusion: if two objects share similar names, the identifier resolves the ambiguity.\n\nEXHIBITION CONTEXT (GEM)\nReference summaries indicate the mask’s display location as the Grand Egyptian Museum. :contentReference[oaicite:10]{index=10} For your project architecture, this aligns with your ‘location’ and ‘physical_links’ fields: scanning a QR/NFC should deterministically route to this object record, then the retrieval layer answers questions using chunked knowledge.\n\nCONSERVATION AND MODERN HISTORY (OPTIONAL BUT HIGH-VALUE)\nModern reference summaries describe conservation-related events, including a widely reported incident in which the beard detached and later restoration was performed (often dated to 2015 in public summaries). :contentReference[oaicite:11]{index=11} If you include this in the dataset, it should be clearly separated as “modern conservation history” to avoid confusing ancient manufacturing with modern repair.\n\nRETRIEVAL-READY KNOWLEDGE SURFACE (WHAT THIS OBJECT CAN ANSWER WITHOUT GUESSING)\nIf your dataset is built correctly (canonical description + specialized chunks), this single object can answer a large footprint of question types:\n- Identification: what it is, whose it is, where it was found, where it is displayed.\n- Quantitative facts: size, weight, and materials. :contentReference[oaicite:12]{index=12}\n- Symbolic questions: Osiris association; cobra/vulture meaning; unity of the Two Lands. :contentReference[oaicite:13]{index=13}\n- Textual magic questions: presence of Book of the Dead spell; Chapter 151 linkage. :contentReference[oaicite:14]{index=14}\n- Craft questions: techniques (hammering, chasing, inlay, soldering). :contentReference[oaicite:15]{index=15}\n\nIMPLEMENTATION NOTE FOR YOUR SYSTEM\nThis long description is intentionally structured so you can automatically generate chunks by splitting on section headers (e.g., PHYSICAL DESCRIPTION, MATERIALS, ICONOGRAPHY, INSCRIPTIONS, TECHNIQUES, DISCOVERY, CONSERVATION). That yields high-quality, semantically coherent chunks, reducing hallucination risk and improving hybrid retrieval precision.",
+      "sources": [
+        {
+          "source_id": "src_gem_official",
+          "type": "museum_official_page",
+          "title": "The Golden Burial Mask of Tutankhamun",
+          "publisher": "Grand Egyptian Museum",
+          "reference": "GEM collection page"
+        },
+        {
+          "source_id": "src_egyptian_museum_cairo",
+          "type": "museum_catalog_page",
+          "title": "Mask of Tutankhamun",
+          "publisher": "Egyptian Museum Cairo",
+          "reference": "EMC artefact page"
+        },
+        {
+          "source_id": "src_global_egyptian_museum",
+          "type": "collection_database",
+          "title": "The Gold Mask of Tutankhamun (JE 60672)",
+          "publisher": "The Global Egyptian Museum",
+          "reference": "GEM database entry"
+        },
+        {
+          "source_id": "src_reference_summary",
+          "type": "reference_summary",
+          "title": "Mask of Tutankhamun",
+          "publisher": "Wikipedia (cross-check)",
+          "reference": "Reference summary page"
+        }
+      ]
+    },
+    {
+      "object_id": "gem_book_of_dead_papyrus_001",
+      "museum": "Grand Egyptian Museum",
+      "name": "Funerary Papyrus (Book of the Dead)",
+      "era": null,
+      "dynasty": null,
+      "reign_period": null,
+      "classification": {
+        "type": "Funerary manuscript",
+        "culture": "Ancient Egypt",
+        "associated_deity_iconography": []
+      },
+      "identifiers": {
+        "JE_number": null,
+        "carter_number": null,
+        "inventory_number": null
+      },
+      "materials": [
+        "Papyrus"
+      ],
+      "techniques": [
+        "Crafting/production",
+        "Surface finishing"
+      ],
+      "dimensions_cm": {
+        "height": null,
+        "width": null,
+        "depth": null
+      },
+      "weight_kg": null,
+      "location": {
+        "site": "Grand Egyptian Museum",
+        "room": null,
+        "position": null
+      },
+      "physical_links": {
+        "qr_code": "QR_gem_book_of_dead_papyrus_001",
+        "nfc_tag": "NFC_gem_book_of_dead_papyrus_001"
+      },
+      "images": [
+        {
+          "image_id": "gem_book_of_dead_papyrus_001_img_01",
+          "path": null,
+          "caption": "Representative view of Funerary Papyrus (Book of the Dead)",
+          "view_type": "front",
+          "source": "TBD"
+        }
+      ],
+      "keywords": [
+        "funerary papyrus",
+        "ancient egypt",
+        "GEM"
+      ],
+      "description_short": "Funerary Papyrus (Book of the Dead) displayed at the Grand Egyptian Museum, prepared as a talking-object record for retrieval-based Q&A.",
+      "description_long": "The record for Funerary Papyrus (Book of the Dead) (object_id: gem_book_of_dead_papyrus_001) is prepared for the Grand Egyptian Museum Talking Objects system and is intended to support retrieval-augmented Q&A grounded in a single canonical text.\n\nIDENTITY AND CLASSIFICATION\n\nThis object is classified as: Funerary manuscript within the culture: Ancient Egypt.\n\nNo associated deity or iconography terms are recorded for this object in the dataset.\n\nCHRONOLOGY (AS RECORDED)\n\nEra: not documented. Dynasty: not documented. Reign period: not documented.\n\nCATALOG IDENTIFIERS (AS RECORDED)\n\nIdentifiers are present as fields but are null in this dataset (JE_number: null; carter_number: null; inventory_number: null), so no catalog number can be asserted from the record.\n\nMATERIALS AND TECHNIQUES (AS RECORDED)\n\nMaterials: Papyrus.\n\nTechniques: Crafting/production, Surface finishing.\n\nMEASUREMENTS (AS RECORDED)\n\nDimensions in centimeters: height=not documented, width=not documented, depth=not documented.\n\nWeight in kilograms: not documented.\n\nMUSEUM LOCATION AND DISPLAY CONTEXT (AS RECORDED)\n\nDisplay location fields: site=Grand Egyptian Museum, room=not documented, position=not documented.\n\nPHYSICAL LINKS FOR TALKING OBJECTS (AS RECORDED)\n\nQR code: QR_gem_book_of_dead_papyrus_001. NFC tag: NFC_gem_book_of_dead_papyrus_001. These identifiers are used to route the visitor interaction to this object record.\n\nIMAGES (AS RECORDED)\n\nImage entries: gem_book_of_dead_papyrus_001_img_01: view_type=front; caption=Representative view of Funerary Papyrus (Book of the Dead); path=not documented; source=TBD.\n\nKEYWORDS (AS RECORDED)\n\nfunerary papyrus, ancient egypt, GEM\n\nCANONICAL DESCRIPTION (SOURCE TEXT)\n\nFunerary Papyrus (Book of the Dead) is included as a distinct talking-object record intended for retrieval-augmented Q&A. The canonical description focuses on what the object is, how its material and form support its function, and why it is relevant for museum interpretation. The record keeps quantitative fields (dimensions, weight) null unless explicitly documented to avoid hallucination. The object supports user questions about its role in ancient Egyptian practice, how it would be encountered in a museum setting, and how object metadata routes users via QR/NFC into retrieval-backed explanations.\n\nIMPLEMENTATION NOTE FOR RAG SYSTEMS\nChunking should separate: (1) object identity and type, (2) material and making, (3) function/role in practice, and (4) exhibition and digital routing context.\n\nSOURCES (AS RECORDED)\n\nsrc_gem_book_of_dead_papyrus_001_tbd: type=museum_official_page; title=Funerary Papyrus (Book of the Dead); publisher=Grand Egyptian Museum; reference=TBD.",
+      "sources": [
+        {
+          "source_id": "src_gem_book_of_dead_papyrus_001_tbd",
+          "type": "museum_official_page",
+          "title": "Funerary Papyrus (Book of the Dead)",
+          "publisher": "Grand Egyptian Museum",
+          "reference": "TBD"
+        }
+      ]
+    },
+    {
+      "object_id": "gem_canopic_jar_001",
+      "museum": "Grand Egyptian Museum",
+      "name": "Canopic Jar",
+      "era": null,
+      "dynasty": null,
+      "reign_period": null,
+      "classification": {
+        "type": "Funerary container",
+        "culture": "Ancient Egypt",
+        "associated_deity_iconography": []
+      },
+      "identifiers": {
+        "JE_number": null,
+        "carter_number": null,
+        "inventory_number": null
+      },
+      "materials": [
+        "Stone or alabaster"
+      ],
+      "techniques": [
+        "Crafting/production",
+        "Surface finishing"
+      ],
+      "dimensions_cm": {
+        "height": null,
+        "width": null,
+        "depth": null
+      },
+      "weight_kg": null,
+      "location": {
+        "site": "Grand Egyptian Museum",
+        "room": null,
+        "position": null
+      },
+      "physical_links": {
+        "qr_code": "QR_gem_canopic_jar_001",
+        "nfc_tag": "NFC_gem_canopic_jar_001"
+      },
+      "images": [
+        {
+          "image_id": "gem_canopic_jar_001_img_01",
+          "path": null,
+          "caption": "Representative view of Canopic Jar",
+          "view_type": "front",
+          "source": "TBD"
+        }
+      ],
+      "keywords": [
+        "canopic jar",
+        "ancient egypt",
+        "GEM"
+      ],
+      "description_short": "Canopic Jar displayed at the Grand Egyptian Museum, prepared as a talking-object record for retrieval-based Q&A.",
+      "description_long": "The record for Canopic Jar (object_id: gem_canopic_jar_001) is prepared for the Grand Egyptian Museum Talking Objects system and is intended to support retrieval-augmented Q&A grounded in a single canonical text.\n\nIDENTITY AND CLASSIFICATION\n\nThis object is classified as: Funerary container within the culture: Ancient Egypt.\n\nNo associated deity or iconography terms are recorded for this object in the dataset.\n\nCHRONOLOGY (AS RECORDED)\n\nEra: not documented. Dynasty: not documented. Reign period: not documented.\n\nCATALOG IDENTIFIERS (AS RECORDED)\n\nIdentifiers are present as fields but are null in this dataset (JE_number: null; carter_number: null; inventory_number: null), so no catalog number can be asserted from the record.\n\nMATERIALS AND TECHNIQUES (AS RECORDED)\n\nMaterials: Stone or alabaster.\n\nTechniques: Crafting/production, Surface finishing.\n\nMEASUREMENTS (AS RECORDED)\n\nDimensions in centimeters: height=not documented, width=not documented, depth=not documented.\n\nWeight in kilograms: not documented.\n\nMUSEUM LOCATION AND DISPLAY CONTEXT (AS RECORDED)\n\nDisplay location fields: site=Grand Egyptian Museum, room=not documented, position=not documented.\n\nPHYSICAL LINKS FOR TALKING OBJECTS (AS RECORDED)\n\nQR code: QR_gem_canopic_jar_001. NFC tag: NFC_gem_canopic_jar_001. These identifiers are used to route the visitor interaction to this object record.\n\nIMAGES (AS RECORDED)\n\nImage entries: gem_canopic_jar_001_img_01: view_type=front; caption=Representative view of Canopic Jar; path=not documented; source=TBD.\n\nKEYWORDS (AS RECORDED)\n\ncanopic jar, ancient egypt, GEM\n\nCANONICAL DESCRIPTION (SOURCE TEXT)\n\nCanopic Jar is included as a distinct talking-object record intended for retrieval-augmented Q&A. The canonical description focuses on what the object is, how its material and form support its function, and why it is relevant for museum interpretation. The record keeps quantitative fields (dimensions, weight) null unless explicitly documented to avoid hallucination. The object supports user questions about its role in ancient Egyptian practice, how it would be encountered in a museum setting, and how object metadata routes users via QR/NFC into retrieval-backed explanations.\n\nIMPLEMENTATION NOTE FOR RAG SYSTEMS\nChunking should separate: (1) object identity and type, (2) material and making, (3) function/role in practice, and (4) exhibition and digital routing context.\n\nSOURCES (AS RECORDED)\n\nsrc_gem_canopic_jar_001_tbd: type=museum_official_page; title=Canopic Jar; publisher=Grand Egyptian Museum; reference=TBD.",
+      "sources": [
+        {
+          "source_id": "src_gem_canopic_jar_001_tbd",
+          "type": "museum_official_page",
+          "title": "Canopic Jar",
+          "publisher": "Grand Egyptian Museum",
+          "reference": "TBD"
+        }
+      ]
+    },
+    {
+      "object_id": "gem_funeral_mask_cartonnage_001",
+      "museum": "Grand Egyptian Museum",
+      "name": "Cartonnage Funerary Mask",
+      "era": null,
+      "dynasty": null,
+      "reign_period": null,
+      "classification": {
+        "type": "Funerary mask",
+        "culture": "Ancient Egypt",
+        "associated_deity_iconography": []
+      },
+      "identifiers": {
+        "JE_number": null,
+        "carter_number": null,
+        "inventory_number": null
+      },
+      "materials": [
+        "Cartonnage"
+      ],
+      "techniques": [
+        "Crafting/production",
+        "Surface finishing"
+      ],
+      "dimensions_cm": {
+        "height": null,
+        "width": null,
+        "depth": null
+      },
+      "weight_kg": null,
+      "location": {
+        "site": "Grand Egyptian Museum",
+        "room": null,
+        "position": null
+      },
+      "physical_links": {
+        "qr_code": "QR_gem_funeral_mask_cartonnage_001",
+        "nfc_tag": "NFC_gem_funeral_mask_cartonnage_001"
+      },
+      "images": [
+        {
+          "image_id": "gem_funeral_mask_cartonnage_001_img_01",
+          "path": null,
+          "caption": "Representative view of Cartonnage Funerary Mask",
+          "view_type": "front",
+          "source": "TBD"
+        }
+      ],
+      "keywords": [
+        "cartonnage funerary mask",
+        "ancient egypt",
+        "GEM"
+      ],
+      "description_short": "Cartonnage Funerary Mask displayed at the Grand Egyptian Museum, prepared as a talking-object record for retrieval-based Q&A.",
+      "description_long": "The record for Cartonnage Funerary Mask (object_id: gem_funeral_mask_cartonnage_001) is prepared for the Grand Egyptian Museum Talking Objects system and is intended to support retrieval-augmented Q&A grounded in a single canonical text.\n\nIDENTITY AND CLASSIFICATION\n\nThis object is classified as: Funerary mask within the culture: Ancient Egypt.\n\nNo associated deity or iconography terms are recorded for this object in the dataset.\n\nCHRONOLOGY (AS RECORDED)\n\nEra: not documented. Dynasty: not documented. Reign period: not documented.\n\nCATALOG IDENTIFIERS (AS RECORDED)\n\nIdentifiers are present as fields but are null in this dataset (JE_number: null; carter_number: null; inventory_number: null), so no catalog number can be asserted from the record.\n\nMATERIALS AND TECHNIQUES (AS RECORDED)\n\nMaterials: Cartonnage.\n\nTechniques: Crafting/production, Surface finishing.\n\nMEASUREMENTS (AS RECORDED)\n\nDimensions in centimeters: height=not documented, width=not documented, depth=not documented.\n\nWeight in kilograms: not documented.\n\nMUSEUM LOCATION AND DISPLAY CONTEXT (AS RECORDED)\n\nDisplay location fields: site=Grand Egyptian Museum, room=not documented, position=not documented.\n\nPHYSICAL LINKS FOR TALKING OBJECTS (AS RECORDED)\n\nQR code: QR_gem_funeral_mask_cartonnage_001. NFC tag: NFC_gem_funeral_mask_cartonnage_001. These identifiers are used to route the visitor interaction to this object record.\n\nIMAGES (AS RECORDED)\n\nImage entries: gem_funeral_mask_cartonnage_001_img_01: view_type=front; caption=Representative view of Cartonnage Funerary Mask; path=not documented; source=TBD.\n\nKEYWORDS (AS RECORDED)\n\ncartonnage funerary mask, ancient egypt, GEM\n\nCANONICAL DESCRIPTION (SOURCE TEXT)\n\nCartonnage Funerary Mask is included as a distinct talking-object record intended for retrieval-augmented Q&A. The canonical description focuses on what the object is, how its material and form support its function, and why it is relevant for museum interpretation. The record keeps quantitative fields (dimensions, weight) null unless explicitly documented to avoid hallucination. The object supports user questions about its role in ancient Egyptian practice, how it would be encountered in a museum setting, and how object metadata routes users via QR/NFC into retrieval-backed explanations.\n\nIMPLEMENTATION NOTE FOR RAG SYSTEMS\nChunking should separate: (1) object identity and type, (2) material and making, (3) function/role in practice, and (4) exhibition and digital routing context.\n\nSOURCES (AS RECORDED)\n\nsrc_gem_funeral_mask_cartonnage_001_tbd: type=museum_official_page; title=Cartonnage Funerary Mask; publisher=Grand Egyptian Museum; reference=TBD.",
+      "sources": [
+        {
+          "source_id": "src_gem_funeral_mask_cartonnage_001_tbd",
+          "type": "museum_official_page",
+          "title": "Cartonnage Funerary Mask",
+          "publisher": "Grand Egyptian Museum",
+          "reference": "TBD"
+        }
+      ]
+    },
+    {
+      "object_id": "gem_funerary_boat_model_001",
+      "museum": "Grand Egyptian Museum",
+      "name": "Model of Funerary Boat (Gebelein)",
+      "era": null,
+      "dynasty": null,
+      "reign_period": null,
+      "classification": {
+        "type": "Funerary boat model",
+        "culture": "Ancient Egypt",
+        "associated_deity_iconography": []
+      },
+      "identifiers": {
+        "JE_number": null,
+        "carter_number": null,
+        "inventory_number": null
+      },
+      "materials": [
+        "Painted wood"
+      ],
+      "techniques": [
+        "Woodworking",
+        "Painting",
+        "Figurine carving"
+      ],
+      "dimensions_cm": {
+        "height": null,
+        "width": null,
+        "depth": null
+      },
+      "weight_kg": null,
+      "location": {
+        "site": "Grand Egyptian Museum",
+        "room": "Beliefs and Funerary Practices Gallery",
+        "position": "Model Display"
+      },
+      "physical_links": {
+        "qr_code": "QR_funerary_boat_model_001",
+        "nfc_tag": "NFC_funerary_boat_model_001"
+      },
+      "images": [
+        {
+          "image_id": "funerary_boat_model_img_01",
+          "path": null,
+          "caption": "Painted wooden funerary boat model with canopy and mummy figurine",
+          "view_type": "front",
+          "source": "TBD"
+        }
+      ],
+      "keywords": [
+        "funerary boat model",
+        "Gebelein",
+        "painted wood",
+        "mummy figurine",
+        "canopy",
+        "wailing woman"
+      ],
+      "description_short": "A painted wooden model of a funerary boat featuring a canopy, a mummy figurine on a lion-headed bed, and accompanying figures, used to discuss funerary belief and ritual imagery.",
+      "description_long": "The record for Model of Funerary Boat (Gebelein) (object_id: gem_funerary_boat_model_001) is prepared for the Grand Egyptian Museum Talking Objects system and is intended to support retrieval-augmented Q&A grounded in a single canonical text.\n\nIDENTITY AND CLASSIFICATION\n\nThis object is classified as: Funerary boat model within the culture: Ancient Egypt.\n\nNo associated deity or iconography terms are recorded for this object in the dataset.\n\nCHRONOLOGY (AS RECORDED)\n\nEra: not documented. Dynasty: not documented. Reign period: not documented.\n\nCATALOG IDENTIFIERS (AS RECORDED)\n\nIdentifiers are present as fields but are null in this dataset (JE_number: null; carter_number: null; inventory_number: null), so no catalog number can be asserted from the record.\n\nMATERIALS AND TECHNIQUES (AS RECORDED)\n\nMaterials: Painted wood.\n\nTechniques: Woodworking, Painting, Figurine carving.\n\nMEASUREMENTS (AS RECORDED)\n\nDimensions in centimeters: height=not documented, width=not documented, depth=not documented.\n\nWeight in kilograms: not documented.\n\nMUSEUM LOCATION AND DISPLAY CONTEXT (AS RECORDED)\n\nDisplay location fields: site=Grand Egyptian Museum, room=Beliefs and Funerary Practices Gallery, position=Model Display.\n\nPHYSICAL LINKS FOR TALKING OBJECTS (AS RECORDED)\n\nQR code: QR_funerary_boat_model_001. NFC tag: NFC_funerary_boat_model_001. These identifiers are used to route the visitor interaction to this object record.\n\nIMAGES (AS RECORDED)\n\nImage entries: funerary_boat_model_img_01: view_type=front; caption=Painted wooden funerary boat model with canopy and mummy figurine; path=not documented; source=TBD.\n\nKEYWORDS (AS RECORDED)\n\nfunerary boat model, Gebelein, painted wood, mummy figurine, canopy, wailing woman\n\nCANONICAL DESCRIPTION (SOURCE TEXT)\n\nA painted wooden model of a funerary boat is described as discovered in Gebelein in 1885. The model is described as lacking a mast and rowers; the bow rises straight up and the stern is recurved. Two hawk-headed rudderposts are joined by a crosspiece near the top, with only one hawk-headed rudder surviving. A canopy supported by four posts shades a mummy figurine lying on a low bed with lion’s heads; at the head of the bed is a wailing woman wearing a wig and long skirt, and other small figurines stand around the bed. The object supports questions about funerary transport symbolism, the meaning of accompanying figures, and how model-making conveys ritual scenes.\n\nIMPLEMENTATION NOTE FOR RAG SYSTEMS\nChunk around discovery context, structural features (mast/rowers/bow/stern), rudderposts, canopy, mummy-on-bed detail, wailing woman figure, and interpretive uses.\n\nSOURCES (AS RECORDED)\n\nsrc_gem_funerary_boat: type=museum_official_page; title=Model of Funerary Boat; publisher=Grand Egyptian Museum; reference=GEM collection page.",
+      "sources": [
+        {
+          "source_id": "src_gem_funerary_boat",
+          "type": "museum_official_page",
+          "title": "Model of Funerary Boat",
+          "publisher": "Grand Egyptian Museum",
+          "reference": "GEM collection page"
+        }
+      ]
+    },
+    {
+      "object_id": "gem_heart_scarab_001",
+      "museum": "Grand Egyptian Museum",
+      "name": "Heart Scarab Amulet",
+      "era": null,
+      "dynasty": null,
+      "reign_period": null,
+      "classification": {
+        "type": "Amulet",
+        "culture": "Ancient Egypt",
+        "associated_deity_iconography": []
+      },
+      "identifiers": {
+        "JE_number": null,
+        "carter_number": null,
+        "inventory_number": null
+      },
+      "materials": [
+        "Stone (scarab material)"
+      ],
+      "techniques": [
+        "Crafting/production",
+        "Surface finishing"
+      ],
+      "dimensions_cm": {
+        "height": null,
+        "width": null,
+        "depth": null
+      },
+      "weight_kg": null,
+      "location": {
+        "site": "Grand Egyptian Museum",
+        "room": null,
+        "position": null
+      },
+      "physical_links": {
+        "qr_code": "QR_gem_heart_scarab_001",
+        "nfc_tag": "NFC_gem_heart_scarab_001"
+      },
+      "images": [
+        {
+          "image_id": "gem_heart_scarab_001_img_01",
+          "path": null,
+          "caption": "Representative view of Heart Scarab Amulet",
+          "view_type": "front",
+          "source": "TBD"
+        }
+      ],
+      "keywords": [
+        "heart scarab amulet",
+        "ancient egypt",
+        "GEM"
+      ],
+      "description_short": "Heart Scarab Amulet displayed at the Grand Egyptian Museum, prepared as a talking-object record for retrieval-based Q&A.",
+      "description_long": "The record for Heart Scarab Amulet (object_id: gem_heart_scarab_001) is prepared for the Grand Egyptian Museum Talking Objects system and is intended to support retrieval-augmented Q&A grounded in a single canonical text.\n\nIDENTITY AND CLASSIFICATION\n\nThis object is classified as: Amulet within the culture: Ancient Egypt.\n\nNo associated deity or iconography terms are recorded for this object in the dataset.\n\nCHRONOLOGY (AS RECORDED)\n\nEra: not documented. Dynasty: not documented. Reign period: not documented.\n\nCATALOG IDENTIFIERS (AS RECORDED)\n\nIdentifiers are present as fields but are null in this dataset (JE_number: null; carter_number: null; inventory_number: null), so no catalog number can be asserted from the record.\n\nMATERIALS AND TECHNIQUES (AS RECORDED)\n\nMaterials: Stone (scarab material).\n\nTechniques: Crafting/production, Surface finishing.\n\nMEASUREMENTS (AS RECORDED)\n\nDimensions in centimeters: height=not documented, width=not documented, depth=not documented.\n\nWeight in kilograms: not documented.\n\nMUSEUM LOCATION AND DISPLAY CONTEXT (AS RECORDED)\n\nDisplay location fields: site=Grand Egyptian Museum, room=not documented, position=not documented.\n\nPHYSICAL LINKS FOR TALKING OBJECTS (AS RECORDED)\n\nQR code: QR_gem_heart_scarab_001. NFC tag: NFC_gem_heart_scarab_001. These identifiers are used to route the visitor interaction to this object record.\n\nIMAGES (AS RECORDED)\n\nImage entries: gem_heart_scarab_001_img_01: view_type=front; caption=Representative view of Heart Scarab Amulet; path=not documented; source=TBD.\n\nKEYWORDS (AS RECORDED)\n\nheart scarab amulet, ancient egypt, GEM\n\nCANONICAL DESCRIPTION (SOURCE TEXT)\n\nHeart Scarab Amulet is included as a distinct talking-object record intended for retrieval-augmented Q&A. The canonical description focuses on what the object is, how its material and form support its function, and why it is relevant for museum interpretation. The record keeps quantitative fields (dimensions, weight) null unless explicitly documented to avoid hallucination. The object supports user questions about its role in ancient Egyptian practice, how it would be encountered in a museum setting, and how object metadata routes users via QR/NFC into retrieval-backed explanations.\n\nIMPLEMENTATION NOTE FOR RAG SYSTEMS\nChunking should separate: (1) object identity and type, (2) material and making, (3) function/role in practice, and (4) exhibition and digital routing context.\n\nSOURCES (AS RECORDED)\n\nsrc_gem_heart_scarab_001_tbd: type=museum_official_page; title=Heart Scarab Amulet; publisher=Grand Egyptian Museum; reference=TBD.",
+      "sources": [
+        {
+          "source_id": "src_gem_heart_scarab_001_tbd",
+          "type": "museum_official_page",
+          "title": "Heart Scarab Amulet",
+          "publisher": "Grand Egyptian Museum",
+          "reference": "TBD"
+        }
+      ]
+    },
+    {
+      "object_id": "gem_khafre_statue_001",
+      "museum": "Grand Egyptian Museum",
+      "name": "Seated Statue of King Khafre",
+      "era": "Old Kingdom",
+      "dynasty": "4th Dynasty",
+      "reign_period": "c. 2558–2532 BCE",
+      "classification": {
+        "type": "Seated royal statue",
+        "culture": "Ancient Egypt",
+        "associated_deity_iconography": [
+          "Horus"
+        ]
+      },
+      "identifiers": {
+        "JE_number": null,
+        "carter_number": null,
+        "inventory_number": null
+      },
+      "materials": [
+        "Diorite"
+      ],
+      "techniques": [
+        "Stone quarrying",
+        "Monolithic carving",
+        "Surface polishing",
+        "Relief carving"
+      ],
+      "dimensions_cm": {
+        "height": null,
+        "width": null,
+        "depth": null
+      },
+      "weight_kg": null,
+      "location": {
+        "site": "Grand Egyptian Museum",
+        "room": "Old Kingdom Gallery",
+        "position": "Royal Sculpture Section"
+      },
+      "physical_links": {
+        "qr_code": "QR_khafre_statue_001",
+        "nfc_tag": "NFC_khafre_statue_001"
+      },
+      "images": [
+        {
+          "image_id": "khafre_statue_img_01",
+          "path": null,
+          "caption": "Front view of the seated diorite statue of King Khafre",
+          "view_type": "front",
+          "source": "TBD"
+        },
+        {
+          "image_id": "khafre_statue_img_02",
+          "path": null,
+          "caption": "Rear view showing the falcon god Horus protecting the king’s head",
+          "view_type": "back",
+          "source": "TBD"
+        }
+      ],
+      "keywords": [
+        "Khafre",
+        "Old Kingdom",
+        "4th Dynasty",
+        "diorite statue",
+        "royal sculpture",
+        "divine kingship",
+        "Horus protection",
+        "Two Lands"
+      ],
+      "description_short": "A seated diorite statue of King Khafre representing Old Kingdom ideals of divine kingship, permanence, and royal authority under the protection of the god Horus.",
+      "description_long": "The seated statue of King Khafre is one of the most iconic works of Old Kingdom royal sculpture and a defining example of early Egyptian concepts of kingship. Created during the 4th Dynasty (c. 2558–2532 BCE), the statue represents King Khafre, builder of the second pyramid at Giza, and embodies a vision of royal authority grounded in permanence, divine protection, and cosmic order.\n\nThe statue is carved from a single block of diorite, an exceptionally hard and visually striking stone. The deliberate selection of this material conveyed durability, eternal stability, and royal strength. The dark, polished surface enhanced the statue’s visual power and aligned the king with timeless, unchanging principles rather than human mortality.\n\nKhafre is shown seated on a throne in a rigid, frontal, and symmetrical posture. This pose follows established Egyptian artistic conventions that prioritize balance, control, and timelessness over naturalistic movement. The king wears the royal nemes headdress, and his facial features are idealized, presenting kingship as an eternal office rather than an individual likeness.\n\nA key iconographic element is the falcon god Horus, whose wings are carved protectively around the back of the king’s head. This visual motif expresses divine guardianship and reinforces the belief that Khafre ruled Egypt under the direct protection and approval of the gods.\n\nThe throne itself carries symbolic significance and is commonly interpreted as incorporating imagery related to the unification of Upper and Lower Egypt. Through this symbolism, the statue visually reinforces Khafre’s role as ruler of the Two Lands.\n\nThe statue was originally discovered in the valley temple of Khafre at Giza, where it formed part of a broader ritual and architectural complex associated with the king’s pyramid. In this original context, the statue functioned as a focal point for ritual activity, offerings, and the continued presence of the king within cult practices after death.\n\nToday, the statue is displayed in the Grand Egyptian Museum, where it serves as a cornerstone object for understanding Old Kingdom art, religious ideology, and the early development of monumental royal imagery. Its clarity of form, material choice, and iconography make it an essential reference for both scholarly interpretation and public education.",
+      "sources": [
+        {
+          "source_id": "src_gem_khafre",
+          "type": "museum_official_page",
+          "title": "Seated Statue of King Khafre",
+          "publisher": "Grand Egyptian Museum",
+          "reference": "GEM collection and exhibition materials"
+        },
+        {
+          "source_id": "src_reference_khafre",
+          "type": "reference_summary",
+          "title": "Statue of Khafre",
+          "publisher": "General reference summaries",
+          "reference": "Cross-checked reference material"
+        }
+      ]
+    },
+    {
+      "object_id": "gem_khufu_ivory_statue_001",
+      "museum": "Grand Egyptian Museum",
+      "name": "Ivory Statuette of King Khufu",
+      "era": "Old Kingdom",
+      "dynasty": "4th Dynasty",
+      "reign_period": "c. 2589–2566 BCE",
+      "classification": {
+        "type": "Small royal statuette",
+        "culture": "Ancient Egypt",
+        "associated_deity_iconography": []
+      },
+      "identifiers": {
+        "JE_number": null,
+        "carter_number": null,
+        "inventory_number": null
+      },
+      "materials": [
+        "Ivory"
+      ],
+      "techniques": [
+        "Ivory carving",
+        "Fine surface detailing"
+      ],
+      "dimensions_cm": {
+        "height": null,
+        "width": null,
+        "depth": null
+      },
+      "weight_kg": null,
+      "location": {
+        "site": "Grand Egyptian Museum",
+        "room": "Old Kingdom Gallery",
+        "position": "Royal Statuary Display"
+      },
+      "physical_links": {
+        "qr_code": "QR_khufu_ivory_001",
+        "nfc_tag": "NFC_khufu_ivory_001"
+      },
+      "images": [
+        {
+          "image_id": "khufu_ivory_img_01",
+          "path": null,
+          "caption": "Ivory statuette of King Khufu seated on a throne",
+          "view_type": "front",
+          "source": "TBD"
+        }
+      ],
+      "keywords": [
+        "Khufu",
+        "Old Kingdom",
+        "4th Dynasty",
+        "ivory statuette",
+        "royal portraiture",
+        "Great Pyramid",
+        "small-scale sculpture",
+        "kingship"
+      ],
+      "description_short": "A small ivory statuette of King Khufu, builder of the Great Pyramid, and the only widely accepted three-dimensional representation of this Old Kingdom ruler.",
+      "description_long": "The ivory statuette of King Khufu is one of the most significant small-scale royal sculptures from ancient Egypt and holds exceptional historical importance as the only widely accepted three-dimensional representation of Khufu, the builder of the Great Pyramid at Giza. Created during the 4th Dynasty of the Old Kingdom (c. 2589–2566 BCE), the statuette provides rare visual evidence of a ruler otherwise known primarily through monumental architecture.\n\nCarved from ivory, the statuette contrasts sharply with the colossal stone monuments typically associated with Khufu’s reign. Its small scale and delicate material emphasize a different mode of royal representation, one focused on portability, ritual presence, and intimate engagement rather than overwhelming monumentality.\n\nThe king is depicted seated on a throne, wearing royal regalia that marks his status as ruler. Despite its diminutive size, the statuette adheres to established Old Kingdom artistic conventions, presenting the king in a composed and authoritative pose that reflects ideals of order and kingship.\n\nThe rarity of royal portraiture from Khufu’s reign makes this object uniquely valuable. Unlike later kings, Khufu left few surviving statues, which has led scholars to rely heavily on architectural and textual sources to reconstruct his image. This statuette therefore plays a crucial role in shaping modern understanding of Khufu’s appearance and royal identity.\n\nThe choice of ivory as a material suggests a context different from public display. Ivory was a precious and workable material suitable for fine carving, indicating that the statuette may have functioned in a ritual, cultic, or administrative setting where close physical interaction was possible.\n\nIn the modern museum context, the statuette is displayed as a key object within the Old Kingdom galleries of the Grand Egyptian Museum. Its presentation highlights the contrast between small-scale royal imagery and the massive pyramidal architecture of the same period, offering visitors a nuanced understanding of how power and kingship could be expressed through both monumentality and restraint.\n\nIMPLEMENTATION NOTE FOR RAG SYSTEMS\nThis description supports granular chunking around themes such as rarity, material choice, scale versus monumentality, artistic convention, and historical significance. Each theme can be isolated into atomic knowledge units suitable for precise retrieval and comparison with larger royal statues such as those of Khafre and Ramesses II.",
+      "sources": [
+        {
+          "source_id": "src_gem_khufu_ivory",
+          "type": "museum_official_page",
+          "title": "Ivory Statuette of King Khufu",
+          "publisher": "Grand Egyptian Museum",
+          "reference": "GEM Old Kingdom collection materials"
+        },
+        {
+          "source_id": "src_reference_khufu_ivory",
+          "type": "reference_summary",
+          "title": "Ivory Statuette of Khufu",
+          "publisher": "General reference summaries",
+          "reference": "Cross-checked reference material"
+        }
+      ]
+    },
+    {
+      "object_id": "gem_mummification_tools_001",
+      "museum": "Grand Egyptian Museum",
+      "name": "Mummification Tool Set",
+      "era": null,
+      "dynasty": null,
+      "reign_period": null,
+      "classification": {
+        "type": "Embalming tools",
+        "culture": "Ancient Egypt",
+        "associated_deity_iconography": []
+      },
+      "identifiers": {
+        "JE_number": null,
+        "carter_number": null,
+        "inventory_number": null
+      },
+      "materials": [
+        "Metal/wood"
+      ],
+      "techniques": [
+        "Crafting/production",
+        "Surface finishing"
+      ],
+      "dimensions_cm": {
+        "height": null,
+        "width": null,
+        "depth": null
+      },
+      "weight_kg": null,
+      "location": {
+        "site": "Grand Egyptian Museum",
+        "room": null,
+        "position": null
+      },
+      "physical_links": {
+        "qr_code": "QR_gem_mummification_tools_001",
+        "nfc_tag": "NFC_gem_mummification_tools_001"
+      },
+      "images": [
+        {
+          "image_id": "gem_mummification_tools_001_img_01",
+          "path": null,
+          "caption": "Representative view of Mummification Tool Set",
+          "view_type": "front",
+          "source": "TBD"
+        }
+      ],
+      "keywords": [
+        "mummification tool set",
+        "ancient egypt",
+        "GEM"
+      ],
+      "description_short": "Mummification Tool Set displayed at the Grand Egyptian Museum, prepared as a talking-object record for retrieval-based Q&A.",
+      "description_long": "The record for Mummification Tool Set (object_id: gem_mummification_tools_001) is prepared for the Grand Egyptian Museum Talking Objects system and is intended to support retrieval-augmented Q&A grounded in a single canonical text.\n\nIDENTITY AND CLASSIFICATION\n\nThis object is classified as: Embalming tools within the culture: Ancient Egypt.\n\nNo associated deity or iconography terms are recorded for this object in the dataset.\n\nCHRONOLOGY (AS RECORDED)\n\nEra: not documented. Dynasty: not documented. Reign period: not documented.\n\nCATALOG IDENTIFIERS (AS RECORDED)\n\nIdentifiers are present as fields but are null in this dataset (JE_number: null; carter_number: null; inventory_number: null), so no catalog number can be asserted from the record.\n\nMATERIALS AND TECHNIQUES (AS RECORDED)\n\nMaterials: Metal/wood.\n\nTechniques: Crafting/production, Surface finishing.\n\nMEASUREMENTS (AS RECORDED)\n\nDimensions in centimeters: height=not documented, width=not documented, depth=not documented.\n\nWeight in kilograms: not documented.\n\nMUSEUM LOCATION AND DISPLAY CONTEXT (AS RECORDED)\n\nDisplay location fields: site=Grand Egyptian Museum, room=not documented, position=not documented.\n\nPHYSICAL LINKS FOR TALKING OBJECTS (AS RECORDED)\n\nQR code: QR_gem_mummification_tools_001. NFC tag: NFC_gem_mummification_tools_001. These identifiers are used to route the visitor interaction to this object record.\n\nIMAGES (AS RECORDED)\n\nImage entries: gem_mummification_tools_001_img_01: view_type=front; caption=Representative view of Mummification Tool Set; path=not documented; source=TBD.\n\nKEYWORDS (AS RECORDED)\n\nmummification tool set, ancient egypt, GEM\n\nCANONICAL DESCRIPTION (SOURCE TEXT)\n\nMummification Tool Set is included as a distinct talking-object record intended for retrieval-augmented Q&A. The canonical description focuses on what the object is, how its material and form support its function, and why it is relevant for museum interpretation. The record keeps quantitative fields (dimensions, weight) null unless explicitly documented to avoid hallucination. The object supports user questions about its role in ancient Egyptian practice, how it would be encountered in a museum setting, and how object metadata routes users via QR/NFC into retrieval-backed explanations.\n\nIMPLEMENTATION NOTE FOR RAG SYSTEMS\nChunking should separate: (1) object identity and type, (2) material and making, (3) function/role in practice, and (4) exhibition and digital routing context.\n\nSOURCES (AS RECORDED)\n\nsrc_gem_mummification_tools_001_tbd: type=museum_official_page; title=Mummification Tool Set; publisher=Grand Egyptian Museum; reference=TBD.",
+      "sources": [
+        {
+          "source_id": "src_gem_mummification_tools_001_tbd",
+          "type": "museum_official_page",
+          "title": "Mummification Tool Set",
+          "publisher": "Grand Egyptian Museum",
+          "reference": "TBD"
+        }
+      ]
+    },
+    {
+      "object_id": "gem_ramesses_ii_colossus_001",
+      "museum": "Grand Egyptian Museum",
+      "name": "Colossal Statue of Ramesses II",
+      "era": "New Kingdom",
+      "dynasty": "19th Dynasty",
+      "reign_period": "c. 1279–1213 BCE",
+      "classification": {
+        "type": "Colossal royal statue",
+        "culture": "Ancient Egypt",
+        "associated_deity_iconography": [
+          "Amun-Re",
+          "Ra-Horakhty"
+        ]
+      },
+      "identifiers": {
+        "inventory_number": null,
+        "JE_number": null,
+        "carter_number": null
+      },
+      "materials": [
+        "Granodiorite"
+      ],
+      "techniques": [
+        "Stone quarrying",
+        "Monolithic carving",
+        "Surface polishing",
+        "Hieroglyphic inscription carving"
+      ],
+      "dimensions_cm": {
+        "height": 1100,
+        "width": null,
+        "depth": null
+      },
+      "weight_kg": 83000,
+      "location": {
+        "site": "Grand Egyptian Museum",
+        "room": "Main Atrium",
+        "position": "Central entrance axis"
+      },
+      "physical_links": {
+        "qr_code": "QR_ramesses_ii_colossus_001",
+        "nfc_tag": "NFC_ramesses_ii_colossus_001"
+      },
+      "images": [
+        {
+          "image_id": "ramesses_ii_colossus_img_01",
+          "path": null,
+          "caption": "Front view of the colossal statue of Ramesses II in the Grand Egyptian Museum atrium",
+          "view_type": "front",
+          "source": "TBD"
+        },
+        {
+          "image_id": "ramesses_ii_colossus_img_02",
+          "path": null,
+          "caption": "Side view showing the scale of the statue relative to the museum space",
+          "view_type": "context",
+          "source": "TBD"
+        }
+      ],
+      "keywords": [
+        "Ramesses II",
+        "colossal statue",
+        "New Kingdom",
+        "19th Dynasty",
+        "royal propaganda",
+        "divine kingship",
+        "granodiorite sculpture",
+        "Memphis",
+        "monumental art"
+      ],
+      "description_short": "A monumental granodiorite statue of Ramesses II displayed at the main entrance of the Grand Egyptian Museum, representing New Kingdom royal ideology, divine kingship, and state power on an architectural scale.",
+      "description_long": "The Colossal Statue of Ramesses II is a monumental royal sculpture carved from a single block of granodiorite and represents one of the most powerful surviving expressions of New Kingdom kingship. Created during the reign of Ramesses II of the 19th Dynasty (c. 1279–1213 BCE), the statue embodies the fusion of political authority, religious ideology, and artistic mastery that characterized Ramesside royal art.\n\nORIGINAL CONTEXT AND HISTORICAL BACKGROUND\nThe statue originally stood in the ancient city of Memphis, one of Egypt’s most important political and religious centers. Its placement in Memphis was not accidental: Memphis functioned as a symbolic administrative capital and a religious focal point linking Lower Egypt, royal authority, and divine legitimacy. Monumental statues erected in such spaces were designed to be encountered by officials, priests, and visitors, reinforcing the omnipresence of the king and the permanence of his rule.\n\nPHYSICAL SCALE AND MATERIAL SIGNIFICANCE\nStanding approximately 11 meters high and weighing around 83 tons, the statue’s colossal scale is a deliberate ideological choice rather than a purely aesthetic one. The use of granodiorite, a hard and durable stone, reinforced notions of permanence, endurance, and divine strength. Quarrying, transporting, and carving such a massive monolithic block required immense state resources, specialized labor, and advanced logistical organization, all of which communicated royal power implicitly.\n\nROYAL ICONOGRAPHY AND POSE\nThe statue depicts Ramesses II in traditional royal form, standing upright with a rigid, frontal posture. This pose aligns with long-established conventions of Egyptian royal statuary, which emphasize stability, timelessness, and control rather than naturalistic movement. The king wears royal regalia that signal both earthly authority and divine favor, visually positioning him as a mediator between gods and humans.\n\nDIVINE ASSOCIATIONS AND RELIGIOUS IDEOLOGY\nRoyal statues of this scale were not merely portraits; they were imbued with religious significance. The statue’s iconography connects Ramesses II to major solar and state deities such as Amun-Re and Ra-Horakhty. Through this association, the king is presented as divinely sanctioned, reinforcing the concept of divine kingship in which the ruler governs Egypt by the will of the gods.\n\nINSCRIPTIONS AND TITULATURE\nCarved hieroglyphic inscriptions on royal statues typically include the king’s names, epithets, and titles, presenting him as ‘Lord of the Two Lands’ and ‘Beloved of the Gods.’ Such inscriptions functioned as perpetual declarations of legitimacy and cosmic order, readable by priests and elites and symbolically accessible to the wider population.\n\nFUNCTION: ROYAL PRESENCE AND PROPAGANDA\nThe statue served as a material manifestation of royal presence. Even in the king’s physical absence, the statue acted as a proxy for authority, receiving offerings, witnessing rituals, and projecting royal power across time. In this sense, the statue functioned as a form of state propaganda, communicating the king’s dominance, divine favor, and eternal rule through scale, material, and iconography.\n\nMODERN REDISCOVERY AND MUSEUM CONTEXT\nIn modern times, the statue became one of Egypt’s most recognizable monumental sculptures. Its relocation and installation at the Grand Egyptian Museum required extensive conservation, engineering, and structural planning due to its size and weight. Its placement in the museum’s main atrium is a curatorial decision that echoes its original function: to confront visitors immediately with the scale and authority of ancient Egyptian kingship.\n\nINTERPRETIVE VALUE FOR CONTEMPORARY AUDIENCES\nFor modern audiences, the statue serves as an entry point into understanding New Kingdom political ideology, religious symbolism, and the technological capabilities of ancient Egyptian society. Its monumental scale provides a tangible sense of how power, divinity, and art were inseparable in ancient Egypt, making it a cornerstone object for education, interpretation, and digital interaction systems such as Talking Objects.\n\nIMPLEMENTATION NOTE FOR RAG SYSTEMS\nThis description is structured to support fine-grained chunking across themes including scale, material, iconography, religious ideology, inscriptions, original context, modern conservation, and exhibition logic. Each section can be isolated into self-contained knowledge units, enabling precise retrieval and minimizing hallucination risk in retrieval-augmented generation systems.",
+      "sources": [
+        {
+          "source_id": "src_gem_ramesses",
+          "type": "museum_official_page",
+          "title": "Colossal Statue of Ramesses II",
+          "publisher": "Grand Egyptian Museum",
+          "reference": "GEM collection and exhibition materials"
+        },
+        {
+          "source_id": "src_reference_summary_ramesses",
+          "type": "reference_summary",
+          "title": "Ramesses II Colossal Statue",
+          "publisher": "General reference summaries",
+          "reference": "Cross-checked reference material"
+        }
+      ]
+    },
+    {
+      "object_id": "gem_royal_ring_001",
+      "museum": "Grand Egyptian Museum",
+      "name": "Royal Signet Ring",
+      "era": null,
+      "dynasty": null,
+      "reign_period": null,
+      "classification": {
+        "type": "Jewelry",
+        "culture": "Ancient Egypt",
+        "associated_deity_iconography": []
+      },
+      "identifiers": {
+        "JE_number": null,
+        "carter_number": null,
+        "inventory_number": null
+      },
+      "materials": [
+        "Gold"
+      ],
+      "techniques": [
+        "Crafting/production",
+        "Surface finishing"
+      ],
+      "dimensions_cm": {
+        "height": null,
+        "width": null,
+        "depth": null
+      },
+      "weight_kg": null,
+      "location": {
+        "site": "Grand Egyptian Museum",
+        "room": null,
+        "position": null
+      },
+      "physical_links": {
+        "qr_code": "QR_gem_royal_ring_001",
+        "nfc_tag": "NFC_gem_royal_ring_001"
+      },
+      "images": [
+        {
+          "image_id": "gem_royal_ring_001_img_01",
+          "path": null,
+          "caption": "Representative view of Royal Signet Ring",
+          "view_type": "front",
+          "source": "TBD"
+        }
+      ],
+      "keywords": [
+        "royal signet ring",
+        "ancient egypt",
+        "GEM"
+      ],
+      "description_short": "Royal Signet Ring displayed at the Grand Egyptian Museum, prepared as a talking-object record for retrieval-based Q&A.",
+      "description_long": "The record for Royal Signet Ring (object_id: gem_royal_ring_001) is prepared for the Grand Egyptian Museum Talking Objects system and is intended to support retrieval-augmented Q&A grounded in a single canonical text.\n\nIDENTITY AND CLASSIFICATION\n\nThis object is classified as: Jewelry within the culture: Ancient Egypt.\n\nNo associated deity or iconography terms are recorded for this object in the dataset.\n\nCHRONOLOGY (AS RECORDED)\n\nEra: not documented. Dynasty: not documented. Reign period: not documented.\n\nCATALOG IDENTIFIERS (AS RECORDED)\n\nIdentifiers are present as fields but are null in this dataset (JE_number: null; carter_number: null; inventory_number: null), so no catalog number can be asserted from the record.\n\nMATERIALS AND TECHNIQUES (AS RECORDED)\n\nMaterials: Gold.\n\nTechniques: Crafting/production, Surface finishing.\n\nMEASUREMENTS (AS RECORDED)\n\nDimensions in centimeters: height=not documented, width=not documented, depth=not documented.\n\nWeight in kilograms: not documented.\n\nMUSEUM LOCATION AND DISPLAY CONTEXT (AS RECORDED)\n\nDisplay location fields: site=Grand Egyptian Museum, room=not documented, position=not documented.\n\nPHYSICAL LINKS FOR TALKING OBJECTS (AS RECORDED)\n\nQR code: QR_gem_royal_ring_001. NFC tag: NFC_gem_royal_ring_001. These identifiers are used to route the visitor interaction to this object record.\n\nIMAGES (AS RECORDED)\n\nImage entries: gem_royal_ring_001_img_01: view_type=front; caption=Representative view of Royal Signet Ring; path=not documented; source=TBD.\n\nKEYWORDS (AS RECORDED)\n\nroyal signet ring, ancient egypt, GEM\n\nCANONICAL DESCRIPTION (SOURCE TEXT)\n\nRoyal Signet Ring is included as a distinct talking-object record intended for retrieval-augmented Q&A. The canonical description focuses on what the object is, how its material and form support its function, and why it is relevant for museum interpretation. The record keeps quantitative fields (dimensions, weight) null unless explicitly documented to avoid hallucination. The object supports user questions about its role in ancient Egyptian practice, how it would be encountered in a museum setting, and how object metadata routes users via QR/NFC into retrieval-backed explanations.\n\nIMPLEMENTATION NOTE FOR RAG SYSTEMS\nChunking should separate: (1) object identity and type, (2) material and making, (3) function/role in practice, and (4) exhibition and digital routing context.\n\nSOURCES (AS RECORDED)\n\nsrc_gem_royal_ring_001_tbd: type=museum_official_page; title=Royal Signet Ring; publisher=Grand Egyptian Museum; reference=TBD.",
+      "sources": [
+        {
+          "source_id": "src_gem_royal_ring_001_tbd",
+          "type": "museum_official_page",
+          "title": "Royal Signet Ring",
+          "publisher": "Grand Egyptian Museum",
+          "reference": "TBD"
+        }
+      ]
+    },
+    {
+      "object_id": "gem_sarcophagus_wood_001",
+      "museum": "Grand Egyptian Museum",
+      "name": "Painted Wooden Coffin",
+      "era": null,
+      "dynasty": null,
+      "reign_period": null,
+      "classification": {
+        "type": "Coffin",
+        "culture": "Ancient Egypt",
+        "associated_deity_iconography": []
+      },
+      "identifiers": {
+        "JE_number": null,
+        "carter_number": null,
+        "inventory_number": null
+      },
+      "materials": [
+        "Wood"
+      ],
+      "techniques": [
+        "Crafting/production",
+        "Surface finishing"
+      ],
+      "dimensions_cm": {
+        "height": null,
+        "width": null,
+        "depth": null
+      },
+      "weight_kg": null,
+      "location": {
+        "site": "Grand Egyptian Museum",
+        "room": null,
+        "position": null
+      },
+      "physical_links": {
+        "qr_code": "QR_gem_sarcophagus_wood_001",
+        "nfc_tag": "NFC_gem_sarcophagus_wood_001"
+      },
+      "images": [
+        {
+          "image_id": "gem_sarcophagus_wood_001_img_01",
+          "path": null,
+          "caption": "Representative view of Painted Wooden Coffin",
+          "view_type": "front",
+          "source": "TBD"
+        }
+      ],
+      "keywords": [
+        "painted wooden coffin",
+        "ancient egypt",
+        "GEM"
+      ],
+      "description_short": "Painted Wooden Coffin displayed at the Grand Egyptian Museum, prepared as a talking-object record for retrieval-based Q&A.",
+      "description_long": "The record for Painted Wooden Coffin (object_id: gem_sarcophagus_wood_001) is prepared for the Grand Egyptian Museum Talking Objects system and is intended to support retrieval-augmented Q&A grounded in a single canonical text.\n\nIDENTITY AND CLASSIFICATION\n\nThis object is classified as: Coffin within the culture: Ancient Egypt.\n\nNo associated deity or iconography terms are recorded for this object in the dataset.\n\nCHRONOLOGY (AS RECORDED)\n\nEra: not documented. Dynasty: not documented. Reign period: not documented.\n\nCATALOG IDENTIFIERS (AS RECORDED)\n\nIdentifiers are present as fields but are null in this dataset (JE_number: null; carter_number: null; inventory_number: null), so no catalog number can be asserted from the record.\n\nMATERIALS AND TECHNIQUES (AS RECORDED)\n\nMaterials: Wood.\n\nTechniques: Crafting/production, Surface finishing.\n\nMEASUREMENTS (AS RECORDED)\n\nDimensions in centimeters: height=not documented, width=not documented, depth=not documented.\n\nWeight in kilograms: not documented.\n\nMUSEUM LOCATION AND DISPLAY CONTEXT (AS RECORDED)\n\nDisplay location fields: site=Grand Egyptian Museum, room=not documented, position=not documented.\n\nPHYSICAL LINKS FOR TALKING OBJECTS (AS RECORDED)\n\nQR code: QR_gem_sarcophagus_wood_001. NFC tag: NFC_gem_sarcophagus_wood_001. These identifiers are used to route the visitor interaction to this object record.\n\nIMAGES (AS RECORDED)\n\nImage entries: gem_sarcophagus_wood_001_img_01: view_type=front; caption=Representative view of Painted Wooden Coffin; path=not documented; source=TBD.\n\nKEYWORDS (AS RECORDED)\n\npainted wooden coffin, ancient egypt, GEM\n\nCANONICAL DESCRIPTION (SOURCE TEXT)\n\nPainted Wooden Coffin is included as a distinct talking-object record intended for retrieval-augmented Q&A. The canonical description focuses on what the object is, how its material and form support its function, and why it is relevant for museum interpretation. The record keeps quantitative fields (dimensions, weight) null unless explicitly documented to avoid hallucination. The object supports user questions about its role in ancient Egyptian practice, how it would be encountered in a museum setting, and how object metadata routes users via QR/NFC into retrieval-backed explanations.\n\nIMPLEMENTATION NOTE FOR RAG SYSTEMS\nChunking should separate: (1) object identity and type, (2) material and making, (3) function/role in practice, and (4) exhibition and digital routing context.\n\nSOURCES (AS RECORDED)\n\nsrc_gem_sarcophagus_wood_001_tbd: type=museum_official_page; title=Painted Wooden Coffin; publisher=Grand Egyptian Museum; reference=TBD.",
+      "sources": [
+        {
+          "source_id": "src_gem_sarcophagus_wood_001_tbd",
+          "type": "museum_official_page",
+          "title": "Painted Wooden Coffin",
+          "publisher": "Grand Egyptian Museum",
+          "reference": "TBD"
+        }
+      ]
+    },
+    {
+      "object_id": "gem_shabti_figurines_001",
+      "museum": "Grand Egyptian Museum",
+      "name": "Shabti Figurines Set",
+      "era": null,
+      "dynasty": null,
+      "reign_period": null,
+      "classification": {
+        "type": "Funerary figurines",
+        "culture": "Ancient Egypt",
+        "associated_deity_iconography": []
+      },
+      "identifiers": {
+        "JE_number": null,
+        "carter_number": null,
+        "inventory_number": null
+      },
+      "materials": [
+        "Faience"
+      ],
+      "techniques": [
+        "Crafting/production",
+        "Surface finishing"
+      ],
+      "dimensions_cm": {
+        "height": null,
+        "width": null,
+        "depth": null
+      },
+      "weight_kg": null,
+      "location": {
+        "site": "Grand Egyptian Museum",
+        "room": null,
+        "position": null
+      },
+      "physical_links": {
+        "qr_code": "QR_gem_shabti_figurines_001",
+        "nfc_tag": "NFC_gem_shabti_figurines_001"
+      },
+      "images": [
+        {
+          "image_id": "gem_shabti_figurines_001_img_01",
+          "path": null,
+          "caption": "Representative view of Shabti Figurines Set",
+          "view_type": "front",
+          "source": "TBD"
+        }
+      ],
+      "keywords": [
+        "shabti figurines set",
+        "ancient egypt",
+        "GEM"
+      ],
+      "description_short": "Shabti Figurines Set displayed at the Grand Egyptian Museum, prepared as a talking-object record for retrieval-based Q&A.",
+      "description_long": "The record for Shabti Figurines Set (object_id: gem_shabti_figurines_001) is prepared for the Grand Egyptian Museum Talking Objects system and is intended to support retrieval-augmented Q&A grounded in a single canonical text.\n\nIDENTITY AND CLASSIFICATION\n\nThis object is classified as: Funerary figurines within the culture: Ancient Egypt.\n\nNo associated deity or iconography terms are recorded for this object in the dataset.\n\nCHRONOLOGY (AS RECORDED)\n\nEra: not documented. Dynasty: not documented. Reign period: not documented.\n\nCATALOG IDENTIFIERS (AS RECORDED)\n\nIdentifiers are present as fields but are null in this dataset (JE_number: null; carter_number: null; inventory_number: null), so no catalog number can be asserted from the record.\n\nMATERIALS AND TECHNIQUES (AS RECORDED)\n\nMaterials: Faience.\n\nTechniques: Crafting/production, Surface finishing.\n\nMEASUREMENTS (AS RECORDED)\n\nDimensions in centimeters: height=not documented, width=not documented, depth=not documented.\n\nWeight in kilograms: not documented.\n\nMUSEUM LOCATION AND DISPLAY CONTEXT (AS RECORDED)\n\nDisplay location fields: site=Grand Egyptian Museum, room=not documented, position=not documented.\n\nPHYSICAL LINKS FOR TALKING OBJECTS (AS RECORDED)\n\nQR code: QR_gem_shabti_figurines_001. NFC tag: NFC_gem_shabti_figurines_001. These identifiers are used to route the visitor interaction to this object record.\n\nIMAGES (AS RECORDED)\n\nImage entries: gem_shabti_figurines_001_img_01: view_type=front; caption=Representative view of Shabti Figurines Set; path=not documented; source=TBD.\n\nKEYWORDS (AS RECORDED)\n\nshabti figurines set, ancient egypt, GEM\n\nCANONICAL DESCRIPTION (SOURCE TEXT)\n\nShabti Figurines Set is included as a distinct talking-object record intended for retrieval-augmented Q&A. The canonical description focuses on what the object is, how its material and form support its function, and why it is relevant for museum interpretation. The record keeps quantitative fields (dimensions, weight) null unless explicitly documented to avoid hallucination. The object supports user questions about its role in ancient Egyptian practice, how it would be encountered in a museum setting, and how object metadata routes users via QR/NFC into retrieval-backed explanations.\n\nIMPLEMENTATION NOTE FOR RAG SYSTEMS\nChunking should separate: (1) object identity and type, (2) material and making, (3) function/role in practice, and (4) exhibition and digital routing context.\n\nSOURCES (AS RECORDED)\n\nsrc_gem_shabti_figurines_001_tbd: type=museum_official_page; title=Shabti Figurines Set; publisher=Grand Egyptian Museum; reference=TBD.",
+      "sources": [
+        {
+          "source_id": "src_gem_shabti_figurines_001_tbd",
+          "type": "museum_official_page",
+          "title": "Shabti Figurines Set",
+          "publisher": "Grand Egyptian Museum",
+          "reference": "TBD"
+        }
+      ]
+    },
+    {
+      "object_id": "gem_solar_boat_khufu_001",
+      "museum": "Grand Egyptian Museum",
+      "name": "Khufu Solar Boat (Cedarwood boat)",
+      "era": null,
+      "dynasty": null,
+      "reign_period": null,
+      "classification": {
+        "type": "Ceremonial boat",
+        "culture": "Ancient Egypt",
+        "associated_deity_iconography": []
+      },
+      "identifiers": {
+        "JE_number": null,
+        "carter_number": null,
+        "inventory_number": null
+      },
+      "materials": [
+        "Cedarwood"
+      ],
+      "techniques": [
+        "Crafting/production",
+        "Surface finishing"
+      ],
+      "dimensions_cm": {
+        "height": null,
+        "width": null,
+        "depth": null
+      },
+      "weight_kg": null,
+      "location": {
+        "site": "Grand Egyptian Museum",
+        "room": null,
+        "position": null
+      },
+      "physical_links": {
+        "qr_code": "QR_gem_solar_boat_khufu_001",
+        "nfc_tag": "NFC_gem_solar_boat_khufu_001"
+      },
+      "images": [
+        {
+          "image_id": "gem_solar_boat_khufu_001_img_01",
+          "path": null,
+          "caption": "Representative view of Khufu Solar Boat (Cedarwood boat)",
+          "view_type": "front",
+          "source": "TBD"
+        }
+      ],
+      "keywords": [
+        "khufu solar boat",
+        "ancient egypt",
+        "GEM"
+      ],
+      "description_short": "Khufu Solar Boat (Cedarwood boat) displayed at the Grand Egyptian Museum, prepared as a talking-object record for retrieval-based Q&A.",
+      "description_long": "The record for Khufu Solar Boat (Cedarwood boat) (object_id: gem_solar_boat_khufu_001) is prepared for the Grand Egyptian Museum Talking Objects system and is intended to support retrieval-augmented Q&A grounded in a single canonical text.\n\nIDENTITY AND CLASSIFICATION\n\nThis object is classified as: Ceremonial boat within the culture: Ancient Egypt.\n\nNo associated deity or iconography terms are recorded for this object in the dataset.\n\nCHRONOLOGY (AS RECORDED)\n\nEra: not documented. Dynasty: not documented. Reign period: not documented.\n\nCATALOG IDENTIFIERS (AS RECORDED)\n\nIdentifiers are present as fields but are null in this dataset (JE_number: null; carter_number: null; inventory_number: null), so no catalog number can be asserted from the record.\n\nMATERIALS AND TECHNIQUES (AS RECORDED)\n\nMaterials: Cedarwood.\n\nTechniques: Crafting/production, Surface finishing.\n\nMEASUREMENTS (AS RECORDED)\n\nDimensions in centimeters: height=not documented, width=not documented, depth=not documented.\n\nWeight in kilograms: not documented.\n\nMUSEUM LOCATION AND DISPLAY CONTEXT (AS RECORDED)\n\nDisplay location fields: site=Grand Egyptian Museum, room=not documented, position=not documented.\n\nPHYSICAL LINKS FOR TALKING OBJECTS (AS RECORDED)\n\nQR code: QR_gem_solar_boat_khufu_001. NFC tag: NFC_gem_solar_boat_khufu_001. These identifiers are used to route the visitor interaction to this object record.\n\nIMAGES (AS RECORDED)\n\nImage entries: gem_solar_boat_khufu_001_img_01: view_type=front; caption=Representative view of Khufu Solar Boat (Cedarwood boat); path=not documented; source=TBD.\n\nKEYWORDS (AS RECORDED)\n\nkhufu solar boat, ancient egypt, GEM\n\nCANONICAL DESCRIPTION (SOURCE TEXT)\n\nKhufu Solar Boat (Cedarwood boat) is included as a distinct talking-object record intended for retrieval-augmented Q&A. The canonical description focuses on what the object is, how its material and form support its function, and why it is relevant for museum interpretation. The record keeps quantitative fields (dimensions, weight) null unless explicitly documented to avoid hallucination. The object supports user questions about its role in ancient Egyptian practice, how it would be encountered in a museum setting, and how object metadata routes users via QR/NFC into retrieval-backed explanations.\n\nIMPLEMENTATION NOTE FOR RAG SYSTEMS\nChunking should separate: (1) object identity and type, (2) material and making, (3) function/role in practice, and (4) exhibition and digital routing context.\n\nSOURCES (AS RECORDED)\n\nsrc_gem_solar_boat_khufu_001_tbd: type=museum_official_page; title=Khufu Solar Boat (Cedarwood boat); publisher=Grand Egyptian Museum; reference=TBD.",
+      "sources": [
+        {
+          "source_id": "src_gem_solar_boat_khufu_001_tbd",
+          "type": "museum_official_page",
+          "title": "Khufu Solar Boat (Cedarwood boat)",
+          "publisher": "Grand Egyptian Museum",
+          "reference": "TBD"
+        }
+      ]
+    },
+    {
+      "object_id": "gem_statue_amenhotep_iii_001",
+      "museum": "Grand Egyptian Museum",
+      "name": "Statue of Amenhotep III",
+      "era": null,
+      "dynasty": null,
+      "reign_period": null,
+      "classification": {
+        "type": "Royal statue",
+        "culture": "Ancient Egypt",
+        "associated_deity_iconography": []
+      },
+      "identifiers": {
+        "JE_number": null,
+        "carter_number": null,
+        "inventory_number": null
+      },
+      "materials": [
+        "Stone"
+      ],
+      "techniques": [
+        "Crafting/production",
+        "Surface finishing"
+      ],
+      "dimensions_cm": {
+        "height": null,
+        "width": null,
+        "depth": null
+      },
+      "weight_kg": null,
+      "location": {
+        "site": "Grand Egyptian Museum",
+        "room": null,
+        "position": null
+      },
+      "physical_links": {
+        "qr_code": "QR_gem_statue_amenhotep_iii_001",
+        "nfc_tag": "NFC_gem_statue_amenhotep_iii_001"
+      },
+      "images": [
+        {
+          "image_id": "gem_statue_amenhotep_iii_001_img_01",
+          "path": null,
+          "caption": "Representative view of Statue of Amenhotep III",
+          "view_type": "front",
+          "source": "TBD"
+        }
+      ],
+      "keywords": [
+        "statue of amenhotep iii",
+        "ancient egypt",
+        "GEM"
+      ],
+      "description_short": "Statue of Amenhotep III displayed at the Grand Egyptian Museum, prepared as a talking-object record for retrieval-based Q&A.",
+      "description_long": "The record for Statue of Amenhotep III (object_id: gem_statue_amenhotep_iii_001) is prepared for the Grand Egyptian Museum Talking Objects system and is intended to support retrieval-augmented Q&A grounded in a single canonical text.\n\nIDENTITY AND CLASSIFICATION\n\nThis object is classified as: Royal statue within the culture: Ancient Egypt.\n\nNo associated deity or iconography terms are recorded for this object in the dataset.\n\nCHRONOLOGY (AS RECORDED)\n\nEra: not documented. Dynasty: not documented. Reign period: not documented.\n\nCATALOG IDENTIFIERS (AS RECORDED)\n\nIdentifiers are present as fields but are null in this dataset (JE_number: null; carter_number: null; inventory_number: null), so no catalog number can be asserted from the record.\n\nMATERIALS AND TECHNIQUES (AS RECORDED)\n\nMaterials: Stone.\n\nTechniques: Crafting/production, Surface finishing.\n\nMEASUREMENTS (AS RECORDED)\n\nDimensions in centimeters: height=not documented, width=not documented, depth=not documented.\n\nWeight in kilograms: not documented.\n\nMUSEUM LOCATION AND DISPLAY CONTEXT (AS RECORDED)\n\nDisplay location fields: site=Grand Egyptian Museum, room=not documented, position=not documented.\n\nPHYSICAL LINKS FOR TALKING OBJECTS (AS RECORDED)\n\nQR code: QR_gem_statue_amenhotep_iii_001. NFC tag: NFC_gem_statue_amenhotep_iii_001. These identifiers are used to route the visitor interaction to this object record.\n\nIMAGES (AS RECORDED)\n\nImage entries: gem_statue_amenhotep_iii_001_img_01: view_type=front; caption=Representative view of Statue of Amenhotep III; path=not documented; source=TBD.\n\nKEYWORDS (AS RECORDED)\n\nstatue of amenhotep iii, ancient egypt, GEM\n\nCANONICAL DESCRIPTION (SOURCE TEXT)\n\nStatue of Amenhotep III is included as a distinct talking-object record intended for retrieval-augmented Q&A. The canonical description focuses on what the object is, how its material and form support its function, and why it is relevant for museum interpretation. The record keeps quantitative fields (dimensions, weight) null unless explicitly documented to avoid hallucination. The object supports user questions about its role in ancient Egyptian practice, how it would be encountered in a museum setting, and how object metadata routes users via QR/NFC into retrieval-backed explanations.\n\nIMPLEMENTATION NOTE FOR RAG SYSTEMS\nChunking should separate: (1) object identity and type, (2) material and making, (3) function/role in practice, and (4) exhibition and digital routing context.\n\nSOURCES (AS RECORDED)\n\nsrc_gem_statue_amenhotep_iii_001_tbd: type=museum_official_page; title=Statue of Amenhotep III; publisher=Grand Egyptian Museum; reference=TBD.",
+      "sources": [
+        {
+          "source_id": "src_gem_statue_amenhotep_iii_001_tbd",
+          "type": "museum_official_page",
+          "title": "Statue of Amenhotep III",
+          "publisher": "Grand Egyptian Museum",
+          "reference": "TBD"
+        }
+      ]
+    },
+    {
+      "object_id": "gem_statue_hatshepsut_001",
+      "museum": "Grand Egyptian Museum",
+      "name": "Statue of Hatshepsut",
+      "era": null,
+      "dynasty": null,
+      "reign_period": null,
+      "classification": {
+        "type": "Royal statue",
+        "culture": "Ancient Egypt",
+        "associated_deity_iconography": []
+      },
+      "identifiers": {
+        "JE_number": null,
+        "carter_number": null,
+        "inventory_number": null
+      },
+      "materials": [
+        "Stone"
+      ],
+      "techniques": [
+        "Crafting/production",
+        "Surface finishing"
+      ],
+      "dimensions_cm": {
+        "height": null,
+        "width": null,
+        "depth": null
+      },
+      "weight_kg": null,
+      "location": {
+        "site": "Grand Egyptian Museum",
+        "room": null,
+        "position": null
+      },
+      "physical_links": {
+        "qr_code": "QR_gem_statue_hatshepsut_001",
+        "nfc_tag": "NFC_gem_statue_hatshepsut_001"
+      },
+      "images": [
+        {
+          "image_id": "gem_statue_hatshepsut_001_img_01",
+          "path": null,
+          "caption": "Representative view of Statue of Hatshepsut",
+          "view_type": "front",
+          "source": "TBD"
+        }
+      ],
+      "keywords": [
+        "statue of hatshepsut",
+        "ancient egypt",
+        "GEM"
+      ],
+      "description_short": "Statue of Hatshepsut displayed at the Grand Egyptian Museum, prepared as a talking-object record for retrieval-based Q&A.",
+      "description_long": "The record for Statue of Hatshepsut (object_id: gem_statue_hatshepsut_001) is prepared for the Grand Egyptian Museum Talking Objects system and is intended to support retrieval-augmented Q&A grounded in a single canonical text.\n\nIDENTITY AND CLASSIFICATION\n\nThis object is classified as: Royal statue within the culture: Ancient Egypt.\n\nNo associated deity or iconography terms are recorded for this object in the dataset.\n\nCHRONOLOGY (AS RECORDED)\n\nEra: not documented. Dynasty: not documented. Reign period: not documented.\n\nCATALOG IDENTIFIERS (AS RECORDED)\n\nIdentifiers are present as fields but are null in this dataset (JE_number: null; carter_number: null; inventory_number: null), so no catalog number can be asserted from the record.\n\nMATERIALS AND TECHNIQUES (AS RECORDED)\n\nMaterials: Stone.\n\nTechniques: Crafting/production, Surface finishing.\n\nMEASUREMENTS (AS RECORDED)\n\nDimensions in centimeters: height=not documented, width=not documented, depth=not documented.\n\nWeight in kilograms: not documented.\n\nMUSEUM LOCATION AND DISPLAY CONTEXT (AS RECORDED)\n\nDisplay location fields: site=Grand Egyptian Museum, room=not documented, position=not documented.\n\nPHYSICAL LINKS FOR TALKING OBJECTS (AS RECORDED)\n\nQR code: QR_gem_statue_hatshepsut_001. NFC tag: NFC_gem_statue_hatshepsut_001. These identifiers are used to route the visitor interaction to this object record.\n\nIMAGES (AS RECORDED)\n\nImage entries: gem_statue_hatshepsut_001_img_01: view_type=front; caption=Representative view of Statue of Hatshepsut; path=not documented; source=TBD.\n\nKEYWORDS (AS RECORDED)\n\nstatue of hatshepsut, ancient egypt, GEM\n\nCANONICAL DESCRIPTION (SOURCE TEXT)\n\nStatue of Hatshepsut is included as a distinct talking-object record intended for retrieval-augmented Q&A. The canonical description focuses on what the object is, how its material and form support its function, and why it is relevant for museum interpretation. The record keeps quantitative fields (dimensions, weight) null unless explicitly documented to avoid hallucination. The object supports user questions about its role in ancient Egyptian practice, how it would be encountered in a museum setting, and how object metadata routes users via QR/NFC into retrieval-backed explanations.\n\nIMPLEMENTATION NOTE FOR RAG SYSTEMS\nChunking should separate: (1) object identity and type, (2) material and making, (3) function/role in practice, and (4) exhibition and digital routing context.\n\nSOURCES (AS RECORDED)\n\nsrc_gem_statue_hatshepsut_001_tbd: type=museum_official_page; title=Statue of Hatshepsut; publisher=Grand Egyptian Museum; reference=TBD.",
+      "sources": [
+        {
+          "source_id": "src_gem_statue_hatshepsut_001_tbd",
+          "type": "museum_official_page",
+          "title": "Statue of Hatshepsut",
+          "publisher": "Grand Egyptian Museum",
+          "reference": "TBD"
+        }
+      ]
+    },
+    {
+      "object_id": "gem_statue_sekhmet_001",
+      "museum": "Grand Egyptian Museum",
+      "name": "Statue of Sekhmet",
+      "era": null,
+      "dynasty": null,
+      "reign_period": null,
+      "classification": {
+        "type": "Deity statue",
+        "culture": "Ancient Egypt",
+        "associated_deity_iconography": []
+      },
+      "identifiers": {
+        "JE_number": null,
+        "carter_number": null,
+        "inventory_number": null
+      },
+      "materials": [
+        "Stone"
+      ],
+      "techniques": [
+        "Crafting/production",
+        "Surface finishing"
+      ],
+      "dimensions_cm": {
+        "height": null,
+        "width": null,
+        "depth": null
+      },
+      "weight_kg": null,
+      "location": {
+        "site": "Grand Egyptian Museum",
+        "room": null,
+        "position": null
+      },
+      "physical_links": {
+        "qr_code": "QR_gem_statue_sekhmet_001",
+        "nfc_tag": "NFC_gem_statue_sekhmet_001"
+      },
+      "images": [
+        {
+          "image_id": "gem_statue_sekhmet_001_img_01",
+          "path": null,
+          "caption": "Representative view of Statue of Sekhmet",
+          "view_type": "front",
+          "source": "TBD"
+        }
+      ],
+      "keywords": [
+        "statue of sekhmet",
+        "ancient egypt",
+        "GEM"
+      ],
+      "description_short": "Statue of Sekhmet displayed at the Grand Egyptian Museum, prepared as a talking-object record for retrieval-based Q&A.",
+      "description_long": "The record for Statue of Sekhmet (object_id: gem_statue_sekhmet_001) is prepared for the Grand Egyptian Museum Talking Objects system and is intended to support retrieval-augmented Q&A grounded in a single canonical text.\n\nIDENTITY AND CLASSIFICATION\n\nThis object is classified as: Deity statue within the culture: Ancient Egypt.\n\nNo associated deity or iconography terms are recorded for this object in the dataset.\n\nCHRONOLOGY (AS RECORDED)\n\nEra: not documented. Dynasty: not documented. Reign period: not documented.\n\nCATALOG IDENTIFIERS (AS RECORDED)\n\nIdentifiers are present as fields but are null in this dataset (JE_number: null; carter_number: null; inventory_number: null), so no catalog number can be asserted from the record.\n\nMATERIALS AND TECHNIQUES (AS RECORDED)\n\nMaterials: Stone.\n\nTechniques: Crafting/production, Surface finishing.\n\nMEASUREMENTS (AS RECORDED)\n\nDimensions in centimeters: height=not documented, width=not documented, depth=not documented.\n\nWeight in kilograms: not documented.\n\nMUSEUM LOCATION AND DISPLAY CONTEXT (AS RECORDED)\n\nDisplay location fields: site=Grand Egyptian Museum, room=not documented, position=not documented.\n\nPHYSICAL LINKS FOR TALKING OBJECTS (AS RECORDED)\n\nQR code: QR_gem_statue_sekhmet_001. NFC tag: NFC_gem_statue_sekhmet_001. These identifiers are used to route the visitor interaction to this object record.\n\nIMAGES (AS RECORDED)\n\nImage entries: gem_statue_sekhmet_001_img_01: view_type=front; caption=Representative view of Statue of Sekhmet; path=not documented; source=TBD.\n\nKEYWORDS (AS RECORDED)\n\nstatue of sekhmet, ancient egypt, GEM\n\nCANONICAL DESCRIPTION (SOURCE TEXT)\n\nStatue of Sekhmet is included as a distinct talking-object record intended for retrieval-augmented Q&A. The canonical description focuses on what the object is, how its material and form support its function, and why it is relevant for museum interpretation. The record keeps quantitative fields (dimensions, weight) null unless explicitly documented to avoid hallucination. The object supports user questions about its role in ancient Egyptian practice, how it would be encountered in a museum setting, and how object metadata routes users via QR/NFC into retrieval-backed explanations.\n\nIMPLEMENTATION NOTE FOR RAG SYSTEMS\nChunking should separate: (1) object identity and type, (2) material and making, (3) function/role in practice, and (4) exhibition and digital routing context.\n\nSOURCES (AS RECORDED)\n\nsrc_gem_statue_sekhmet_001_tbd: type=museum_official_page; title=Statue of Sekhmet; publisher=Grand Egyptian Museum; reference=TBD.",
+      "sources": [
+        {
+          "source_id": "src_gem_statue_sekhmet_001_tbd",
+          "type": "museum_official_page",
+          "title": "Statue of Sekhmet",
+          "publisher": "Grand Egyptian Museum",
+          "reference": "TBD"
+        }
+      ]
+    },
+    {
+      "object_id": "gem_tutankhamun_meteoric_dagger_001",
+      "museum": "Grand Egyptian Museum",
+      "name": "Meteoritic Iron Dagger of Tutankhamun",
+      "era": "New Kingdom",
+      "dynasty": "18th Dynasty",
+      "reign_period": "c. 1332–1323 BCE",
+      "classification": {
+        "type": "Royal dagger",
+        "culture": "Ancient Egypt",
+        "associated_deity_iconography": []
+      },
+      "identifiers": {
+        "JE_number": null,
+        "carter_number": null,
+        "inventory_number": null
+      },
+      "materials": [
+        "Meteoric iron",
+        "Gold"
+      ],
+      "techniques": [
+        "Metal forging",
+        "Cold hammering",
+        "Gold hilt crafting"
+      ],
+      "dimensions_cm": {
+        "height": null,
+        "width": null,
+        "depth": null
+      },
+      "weight_kg": null,
+      "location": {
+        "site": "Grand Egyptian Museum",
+        "room": "Tutankhamun Gallery",
+        "position": "Royal Weapons Display"
+      },
+      "physical_links": {
+        "qr_code": "QR_tutankhamun_dagger_001",
+        "nfc_tag": "NFC_tutankhamun_dagger_001"
+      },
+      "images": [
+        {
+          "image_id": "tutankhamun_dagger_img_01",
+          "path": null,
+          "caption": "Meteoritic iron dagger with gold hilt from the tomb of Tutankhamun",
+          "view_type": "front",
+          "source": "TBD"
+        }
+      ],
+      "keywords": [
+        "Tutankhamun",
+        "meteoritic iron",
+        "royal dagger",
+        "New Kingdom metallurgy",
+        "iron before Iron Age",
+        "celestial material",
+        "royal burial goods"
+      ],
+      "description_short": "A ceremonial dagger with a blade made from meteoritic iron and a gold hilt, placed in the burial assemblage of Tutankhamun and representing advanced metallurgy and symbolic celestial material use.",
+      "description_long": "The meteoritic iron dagger of Tutankhamun is one of the most extraordinary objects from the king’s burial assemblage and provides rare evidence of iron use in Egypt before the widespread adoption of iron metallurgy. Created during the late 18th Dynasty (c. 1332–1323 BCE), the dagger was discovered in the tomb of Tutankhamun and placed among the items associated with the king’s body.\n\nThe blade of the dagger is made from meteoritic iron, a material derived from meteorites that fell to Earth. This type of iron is naturally rich in nickel and differs from later smelted iron, indicating that the metal was worked without traditional iron-smelting technology. The use of meteoritic iron reflects both technical skill and symbolic significance.\n\nIn ancient Egyptian belief, meteoritic iron was often associated with the heavens and described as \"iron from the sky.\" Its use in royal objects suggests that the material carried special prestige and possibly divine or cosmic associations, making it particularly suitable for a king’s burial equipment.\n\nThe dagger’s hilt is crafted from gold, reinforcing the object’s royal status and symbolic connection to divinity and eternity. The combination of a celestial metal blade and a precious metal hilt underscores the dagger’s role as both a functional weapon and a symbolic artifact.\n\nThe presence of the dagger in the tomb demonstrates that iron objects were valued long before iron became a common utilitarian material in Egypt. Rather than serving everyday purposes, such early iron objects appear to have been reserved for elite or ceremonial contexts.\n\nIn the modern museum context, the dagger is displayed as part of the Tutankhamun collection at the Grand Egyptian Museum. It plays a crucial role in discussions of early metallurgy, cross-cultural material knowledge, and the symbolic meanings attached to rare materials in ancient Egyptian royal ideology.\n\nIMPLEMENTATION NOTE FOR RAG SYSTEMS\nThis description supports detailed chunking around themes such as material origin, pre-Iron Age metallurgy, symbolic meaning of meteoritic iron, elite burial context, and modern scientific interpretation, enabling precise and grounded retrieval without speculative inference.",
+      "sources": [
+        {
+          "source_id": "src_gem_tutankhamun_dagger",
+          "type": "museum_official_page",
+          "title": "Meteoritic Iron Dagger of Tutankhamun",
+          "publisher": "Grand Egyptian Museum",
+          "reference": "GEM Tutankhamun collection materials"
+        },
+        {
+          "source_id": "src_reference_tutankhamun_dagger",
+          "type": "reference_summary",
+          "title": "Tutankhamun’s Meteoric Iron Dagger",
+          "publisher": "General reference summaries",
+          "reference": "Cross-checked reference material"
+        }
+      ]
+    },
+    {
+      "object_id": "gem_tutankhamun_throne_001",
+      "museum": "Grand Egyptian Museum",
+      "name": "Royal Throne of Tutankhamun",
+      "era": "New Kingdom",
+      "dynasty": "18th Dynasty",
+      "reign_period": "c. 1332–1323 BCE",
+      "classification": {
+        "type": "Royal throne",
+        "culture": "Ancient Egypt",
+        "associated_deity_iconography": [
+          "Aten",
+          "Re"
+        ]
+      },
+      "identifiers": {
+        "JE_number": null,
+        "carter_number": null,
+        "inventory_number": null
+      },
+      "materials": [
+        "Wood",
+        "Gold leaf",
+        "Silver",
+        "Glass paste",
+        "Faience",
+        "Semi-precious stones"
+      ],
+      "techniques": [
+        "Wood carving",
+        "Gilding",
+        "Inlay work",
+        "Relief decoration"
+      ],
+      "dimensions_cm": {
+        "height": null,
+        "width": null,
+        "depth": null
+      },
+      "weight_kg": null,
+      "location": {
+        "site": "Grand Egyptian Museum",
+        "room": "Tutankhamun Gallery",
+        "position": "Royal Furniture Section"
+      },
+      "physical_links": {
+        "qr_code": "QR_tutankhamun_throne_001",
+        "nfc_tag": "NFC_tutankhamun_throne_001"
+      },
+      "images": [
+        {
+          "image_id": "tutankhamun_throne_img_01",
+          "path": null,
+          "caption": "Front view of the gilded royal throne of Tutankhamun",
+          "view_type": "front",
+          "source": "TBD"
+        },
+        {
+          "image_id": "tutankhamun_throne_img_02",
+          "path": null,
+          "caption": "Detail view showing the throne’s backrest with royal scene decoration",
+          "view_type": "detail",
+          "source": "TBD"
+        }
+      ],
+      "keywords": [
+        "Tutankhamun",
+        "royal throne",
+        "New Kingdom",
+        "18th Dynasty",
+        "royal furniture",
+        "gold leaf",
+        "Aten period",
+        "royal iconography",
+        "kingship"
+      ],
+      "description_short": "A richly decorated royal throne made for Tutankhamun, combining gilded wood, inlay, and symbolic imagery to express kingship, divine legitimacy, and royal intimacy during the late 18th Dynasty.",
+      "description_long": "The Royal Throne of Tutankhamun is one of the most important surviving examples of ancient Egyptian royal furniture and a key artifact for understanding kingship, artistic craftsmanship, and ideological transition during the late 18th Dynasty. Created for the young king Tutankhamun (reigned c. 1332–1323 BCE), the throne was discovered in his tomb and formed part of the intimate material environment surrounding the royal body.\n\nThe throne is constructed primarily of wood and covered with gold leaf, silver elements, and richly colored inlays made from glass paste, faience, and semi-precious stones. This combination of materials reflects both technical sophistication and symbolic intent, as gold was closely associated with divinity and eternity in ancient Egyptian belief.\n\nOne of the most striking features of the throne is the decorated backrest, which depicts a domestic yet highly symbolic scene of Tutankhamun seated while his wife Ankhesenamun anoints him with perfumed oil. This scene is exceptional in royal art because it presents the king in a moment of intimacy rather than formal rigidity, while still preserving divine and royal symbolism.\n\nAbove the figures appears the solar disk Aten, whose rays end in hands extending toward the royal couple. This imagery reflects the lingering influence of Amarna-period religious ideology, even after the official restoration of traditional cults under Tutankhamun. The throne therefore provides crucial evidence for religious and ideological continuity and transition following the reign of Akhenaten.\n\nThe throne’s decorative program blends themes of divine kingship, royal legitimacy, and personal identity. Hieroglyphic elements and symbolic motifs reinforce the king’s status while also humanizing him, creating a rare balance between political authority and personal representation.\n\nFunctionally, the throne was not merely ceremonial. Its presence in the tomb indicates that royal furniture was intended to accompany the king into the afterlife, supporting beliefs that the deceased ruler would continue to exist, rule, and require comfort beyond death.\n\nIn the modern museum context, the throne is displayed as part of the Tutankhamun collection at the Grand Egyptian Museum. It serves as a cornerstone object for interpreting New Kingdom craftsmanship, royal ideology, and the social dimensions of kingship, making it especially valuable for educational and digital interpretation systems such as Talking Objects.\n\nIMPLEMENTATION NOTE FOR RAG SYSTEMS\nThis description is intentionally structured to allow fine-grained chunking across themes such as materials, craftsmanship, iconography, religious transition, domestic royal imagery, funerary function, and modern exhibition context. Each thematic section can be isolated into atomic knowledge units suitable for high-precision retrieval.",
+      "sources": [
+        {
+          "source_id": "src_gem_tutankhamun_throne",
+          "type": "museum_official_page",
+          "title": "Royal Throne of Tutankhamun",
+          "publisher": "Grand Egyptian Museum",
+          "reference": "GEM Tutankhamun collection materials"
+        },
+        {
+          "source_id": "src_reference_tutankhamun_throne",
+          "type": "reference_summary",
+          "title": "Throne of Tutankhamun",
+          "publisher": "General reference summaries",
+          "reference": "Cross-checked reference material"
+        }
+      ]
+    },
+    {
+      "object_id": "gem_tutankhamun_walking_stick_001",
+      "museum": "Grand Egyptian Museum",
+      "name": "Royal Walking Stick of Tutankhamun",
+      "era": "New Kingdom",
+      "dynasty": "18th Dynasty",
+      "reign_period": "c. 1332–1323 BCE",
+      "classification": {
+        "type": "Royal walking stick",
+        "culture": "Ancient Egypt",
+        "associated_deity_iconography": []
+      },
+      "identifiers": {
+        "JE_number": null,
+        "carter_number": null,
+        "inventory_number": null
+      },
+      "materials": [
+        "Wood",
+        "Gold",
+        "Faience",
+        "Semi-precious stones"
+      ],
+      "techniques": [
+        "Wood carving",
+        "Gilding",
+        "Inlay work",
+        "Surface polishing"
+      ],
+      "dimensions_cm": {
+        "height": null,
+        "width": null,
+        "depth": null
+      },
+      "weight_kg": null,
+      "location": {
+        "site": "Grand Egyptian Museum",
+        "room": "Tutankhamun Gallery",
+        "position": "Royal Regalia and Personal Objects Section"
+      },
+      "physical_links": {
+        "qr_code": "QR_tutankhamun_walking_stick_001",
+        "nfc_tag": "NFC_tutankhamun_walking_stick_001"
+      },
+      "images": [
+        {
+          "image_id": "tutankhamun_walking_stick_img_01",
+          "path": null,
+          "caption": "Royal walking stick from the tomb of Tutankhamun",
+          "view_type": "front",
+          "source": "TBD"
+        },
+        {
+          "image_id": "tutankhamun_walking_stick_img_02",
+          "path": null,
+          "caption": "Detail view showing decorative and symbolic elements on the walking stick",
+          "view_type": "detail",
+          "source": "TBD"
+        }
+      ],
+      "keywords": [
+        "Tutankhamun",
+        "royal walking stick",
+        "ceremonial regalia",
+        "New Kingdom",
+        "royal authority",
+        "personal objects",
+        "kingship symbolism"
+      ],
+      "description_short": "A decorated royal walking stick associated with Tutankhamun, representing both practical use and symbolic expressions of kingship and authority.",
+      "description_long": "Royal walking sticks formed an important part of ancient Egyptian royal regalia and appear frequently in depictions of kingship. The walking stick associated with Tutankhamun is one of several such objects discovered in the king’s tomb and reflects both practical and symbolic dimensions of royal identity during the late 18th Dynasty.\n\nThe walking stick is made primarily of wood and enhanced with decorative elements such as gilding and inlays using materials like faience and semi-precious stones. These additions elevate the object beyond a simple utilitarian aid and mark it as a royal possession crafted with care and intention.\n\nIn ancient Egyptian iconography, staffs and walking sticks were commonly associated with authority, status, and control. They appear in royal reliefs and statues as symbols of leadership and governance, reinforcing the king’s role as ruler and protector of order.\n\nThe presence of multiple walking sticks in Tutankhamun’s tomb has often been noted in scholarly and museum discussions, indicating that such objects held importance within the royal assemblage. Whether intended for ceremonial display, symbolic representation, or practical use, they formed part of the material expression of kingship.\n\nThe inclusion of the walking stick in the burial context reflects beliefs that royal identity and authority continued into the afterlife. Objects associated with status and function in life were placed in the tomb to accompany the king beyond death.\n\nIn the modern museum context, the walking stick is displayed within the Tutankhamun collection at the Grand Egyptian Museum. It provides insight into personal royal objects, symbolic regalia, and the material culture surrounding kingship, making it a valuable artifact for interpretation and digital engagement.\n\nIMPLEMENTATION NOTE FOR RAG SYSTEMS\nThis description supports focused chunking around themes such as material composition, symbolic meaning of staffs, burial context, and the distinction between practical and ceremonial function. These themes can be isolated into atomic knowledge units suitable for precise retrieval.",
+      "sources": [
+        {
+          "source_id": "src_gem_tutankhamun_walking_stick",
+          "type": "museum_official_page",
+          "title": "Royal Walking Stick of Tutankhamun",
+          "publisher": "Grand Egyptian Museum",
+          "reference": "GEM Tutankhamun collection materials"
+        },
+        {
+          "source_id": "src_reference_tutankhamun_walking_stick",
+          "type": "reference_summary",
+          "title": "Walking Sticks from the Tomb of Tutankhamun",
+          "publisher": "General reference summaries",
+          "reference": "Cross-checked reference material"
+        }
+      ]
+    },
+    {
+      "object_id": "gem_ushabti_box_001",
+      "museum": "Grand Egyptian Museum",
+      "name": "Shabti Box",
+      "era": null,
+      "dynasty": null,
+      "reign_period": null,
+      "classification": {
+        "type": "Funerary equipment",
+        "culture": "Ancient Egypt",
+        "associated_deity_iconography": []
+      },
+      "identifiers": {
+        "JE_number": null,
+        "carter_number": null,
+        "inventory_number": null
+      },
+      "materials": [
+        "Wood"
+      ],
+      "techniques": [
+        "Crafting/production",
+        "Surface finishing"
+      ],
+      "dimensions_cm": {
+        "height": null,
+        "width": null,
+        "depth": null
+      },
+      "weight_kg": null,
+      "location": {
+        "site": "Grand Egyptian Museum",
+        "room": null,
+        "position": null
+      },
+      "physical_links": {
+        "qr_code": "QR_gem_ushabti_box_001",
+        "nfc_tag": "NFC_gem_ushabti_box_001"
+      },
+      "images": [
+        {
+          "image_id": "gem_ushabti_box_001_img_01",
+          "path": null,
+          "caption": "Representative view of Shabti Box",
+          "view_type": "front",
+          "source": "TBD"
+        }
+      ],
+      "keywords": [
+        "shabti box",
+        "ancient egypt",
+        "GEM"
+      ],
+      "description_short": "Shabti Box displayed at the Grand Egyptian Museum, prepared as a talking-object record for retrieval-based Q&A.",
+      "description_long": "The record for Shabti Box (object_id: gem_ushabti_box_001) is prepared for the Grand Egyptian Museum Talking Objects system and is intended to support retrieval-augmented Q&A grounded in a single canonical text.\n\nIDENTITY AND CLASSIFICATION\n\nThis object is classified as: Funerary equipment within the culture: Ancient Egypt.\n\nNo associated deity or iconography terms are recorded for this object in the dataset.\n\nCHRONOLOGY (AS RECORDED)\n\nEra: not documented. Dynasty: not documented. Reign period: not documented.\n\nCATALOG IDENTIFIERS (AS RECORDED)\n\nIdentifiers are present as fields but are null in this dataset (JE_number: null; carter_number: null; inventory_number: null), so no catalog number can be asserted from the record.\n\nMATERIALS AND TECHNIQUES (AS RECORDED)\n\nMaterials: Wood.\n\nTechniques: Crafting/production, Surface finishing.\n\nMEASUREMENTS (AS RECORDED)\n\nDimensions in centimeters: height=not documented, width=not documented, depth=not documented.\n\nWeight in kilograms: not documented.\n\nMUSEUM LOCATION AND DISPLAY CONTEXT (AS RECORDED)\n\nDisplay location fields: site=Grand Egyptian Museum, room=not documented, position=not documented.\n\nPHYSICAL LINKS FOR TALKING OBJECTS (AS RECORDED)\n\nQR code: QR_gem_ushabti_box_001. NFC tag: NFC_gem_ushabti_box_001. These identifiers are used to route the visitor interaction to this object record.\n\nIMAGES (AS RECORDED)\n\nImage entries: gem_ushabti_box_001_img_01: view_type=front; caption=Representative view of Shabti Box; path=not documented; source=TBD.\n\nKEYWORDS (AS RECORDED)\n\nshabti box, ancient egypt, GEM\n\nCANONICAL DESCRIPTION (SOURCE TEXT)\n\nShabti Box is included as a distinct talking-object record intended for retrieval-augmented Q&A. The canonical description focuses on what the object is, how its material and form support its function, and why it is relevant for museum interpretation. The record keeps quantitative fields (dimensions, weight) null unless explicitly documented to avoid hallucination. The object supports user questions about its role in ancient Egyptian practice, how it would be encountered in a museum setting, and how object metadata routes users via QR/NFC into retrieval-backed explanations.\n\nIMPLEMENTATION NOTE FOR RAG SYSTEMS\nChunking should separate: (1) object identity and type, (2) material and making, (3) function/role in practice, and (4) exhibition and digital routing context.\n\nSOURCES (AS RECORDED)\n\nsrc_gem_ushabti_box_001_tbd: type=museum_official_page; title=Shabti Box; publisher=Grand Egyptian Museum; reference=TBD.",
+      "sources": [
+        {
+          "source_id": "src_gem_ushabti_box_001_tbd",
+          "type": "museum_official_page",
+          "title": "Shabti Box",
+          "publisher": "Grand Egyptian Museum",
+          "reference": "TBD"
+        }
+      ]
+    }
+  ]
+}
