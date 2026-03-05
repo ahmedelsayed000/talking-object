@@ -1,13 +1,59 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Talking Object</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MCQ Trainer</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 900px; margin: 2rem auto; padding: 0 1rem; }
+    .card { border: 1px solid #ddd; border-radius: 10px; padding: 1rem; margin-bottom: 1rem; }
+    .controls { display: flex; gap: 0.75rem; flex-wrap: wrap; margin-bottom: 1rem; }
+    button { cursor: pointer; padding: 0.55rem 0.8rem; border-radius: 8px; border: 1px solid #bbb; background: #fff; }
+    button.option { display: block; width: 100%; margin: 0.45rem 0; text-align: left; }
+    button.option.correct { border-color: #2e7d32; background: #e8f5e9; }
+    button.option.wrong { border-color: #c62828; background: #ffebee; }
+    #status { font-weight: 700; margin-top: 0.7rem; }
+    #scoreboard p { margin: 0.35rem 0; }
+    .muted { color: #666; font-size: 0.9rem; }
+    .hidden { display: none; }
+  </style>
 </head>
 <body>
+  <h1>MCQ Practice + Wrong Answer Classification</h1>
+  <p class="muted">Answer questions, auto-classify wrong answers by category, and filter what to review.</p>
 
-<h1 id="name"></h1>
-<p id="desc"></p>
+  <div class="controls card">
+    <label for="viewMode">View:</label>
+    <select id="viewMode">
+      <option value="all">All Questions</option>
+      <option value="wrongOnly">Wrong Answers Only</option>
+      <option value="category">Specific Category</option>
+    </select>
 
-<script src="script.js"></script>
+    <label for="categoryFilter">Category:</label>
+    <select id="categoryFilter"></select>
+
+    <button id="applyFilter">Apply Filter</button>
+    <button id="resetProgress">Reset Progress</button>
+  </div>
+
+  <div class="card" id="quizCard">
+    <p id="questionMeta" class="muted"></p>
+    <h2 id="questionText">Loading question...</h2>
+    <div id="options"></div>
+    <p id="status"></p>
+    <div class="controls">
+      <button id="nextQuestion" class="hidden">Next Question</button>
+    </div>
+  </div>
+
+  <div class="card" id="scoreboard">
+    <h3>Progress</h3>
+    <p id="scoreLine"></p>
+    <p id="wrongSummary"></p>
+    <div id="wrongByCategory"></div>
+  </div>
+
+  <script src="script.js"></script>
 </body>
 </html>
